@@ -82,4 +82,7 @@ _Miss Lam Ai-Leen (1996 – 1999)_
 
 _Mr Kwok Kah Kuoy (2000 – 2005)_
 
-_Miss Low Chee Moon (2006)_
+_Miss Low Chee Moon (2006)_ <br>
+	
+	
+<img style="width:70%" src="/images/JTSS%20OlNew.png">
