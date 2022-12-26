@@ -86,3 +86,23 @@ _Miss Low Chee Moon (2006)_ <br>
 	
 	
 <img style="width:70%" src="/images/JTSS%20OlNew.png">
+	
+<br>**JIN TAI SECONDARY SCHOOL (1982 to 2006)**
+
+**From Each His Best**
+
+Jin Tai Secondary School began its history in 1982 at 147 West Coast Road. It’s pioneering principal, Mr Ling Ling laid the foundation stone for the school. Its guiding philosophy is best expressed in, A Learning and Caring Community that seeks to bring out the best in everyone. Hence, its school motto came to be: From Each His Best. The school was officially opened on 31 August 1985 by Dr Wan Soon Bee, Minister of State (PMO) and MP for West Coast.
+
+In 2000, the school moved to its new premises at 170 West Coast Road. It was officially opened by Mr Lim Hng Kiang, then Minister for Health and Second Minister for Finance and Member of Parliament for West Coast GRC on 14 July 2001.
+
+With the merger of the two schools, Jin Tai with Ghim Moh in 2007, the last principal, Mr Teoh Teik Hoe handed the campus over to the newly-merged school – Clementi Woods Secondary School.
+
+_List of distinguished Principals who helmed the school:_
+
+_Mr Ling Ling (1982 – 1983)_
+
+_Mr Ling Chin Chee (1984 – mid 1994)_
+
+_Mr Tang Swee Chay (mid 1994 – 1999)_
+
+_Mr Teoh Teik Hoe (2000 – 2006)_
