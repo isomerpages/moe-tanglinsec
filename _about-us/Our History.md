@@ -43,4 +43,20 @@ _Mrs Karen Oei (2003 – 2009)_
 
 _Mdm Aini bte Ma’arof (2010 – 2015)_
 
-_Ms Ng Ngoing Keng (2016 – present)_</center>
+_Ms Ng Ngoing Keng (2016 – present)_</center><br>
+
+<img style="width:70%" src="/images/Clementiwoodssecondaryschool.jpg">
+
+<center><b>CLEMENTI WOODS SECONDARY SCHOOL (2007 – 2016)<b></center> 
+
+<center><b>A place to learn, A space to grow, The quest for Excellence</b></center>
+
+<center>Clementi Woods Secondary School was formed on 1 January 2007 as a merger of Ghim Moh Secondary and Jin Tai Secondary. It was officially opened on 27 March 2009 by Mr S Iswaran, then Senior Minister of State, Ministry of Trade and Industry. It occupies the former premises of Jin Tai Secondary School. The school vision then was – A place to learn, A space to grow. To unite the school, a pioneers’ pledge was instituted, which students and staff had to recite at morning assembly. In 2013, the vision was refined to move the school into its next phase of development by adding ‘The quest for excellence’ as the desired outcome.</center>
+
+<center>Despite its short history, Clementi Woods Secondary School performed well academically, inheriting both the academic rigour and the student leadership development programmes from the previous schools. It annually garnered value-added awards in the GCE ‘O’ Level Examinations. The school also placed equal emphasis on developing moral and social values in students and for its efforts, was awarded two Development Awards from MOE for Character Development and National Education in 2011.</center>
+
+<center>In 2016, Clementi Woods Secondary merged with Tanglin Secondary School and students from the school marched over to the Tanglin Secondary School campus to begin a new chapter.</center>
+
+<center>Principal who helmed Clementi Woods Secondary School: Miss Low Chee Moon (2007 – 2016) </center>
+	
+<br><img style="width:900%" src="/images/NewOldSch.png">
