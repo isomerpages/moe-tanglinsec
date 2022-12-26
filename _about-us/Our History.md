@@ -61,8 +61,8 @@ _Ms Ng Ngoing Keng (2016 – present)_</center><br>
 	
 <br><img style="width:900%" src="/images/NewOldSch.png">
 	
-	GHIM MOH SECONDARY SCHOOL (1976 to 2006)  
-	Strive and Persevere 
+	<center> GHIM MOH SECONDARY SCHOOL (1976 to 2006)  
+		Strive and Persevere </center>
 
 Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.
 
@@ -106,3 +106,5 @@ _Mr Ling Chin Chee (1984 – mid 1994)_
 _Mr Tang Swee Chay (mid 1994 – 1999)_
 
 _Mr Teoh Teik Hoe (2000 – 2006)_
+	
+	
