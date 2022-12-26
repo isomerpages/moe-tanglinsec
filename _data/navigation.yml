@@ -1,6 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: ABOUT US
     collection: about-us
+  - title: Contact Us
+    url: /contact-us/
