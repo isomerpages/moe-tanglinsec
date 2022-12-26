@@ -43,4 +43,4 @@ _Mrs Karen Oei (2003 – 2009)_
 
 _Mdm Aini bte Ma’arof (2010 – 2015)_
 
-_Ms Ng Ngoing Keng (2016 – present)_</center> 
+_Ms Ng Ngoing Keng (2016 – present)_</center>
