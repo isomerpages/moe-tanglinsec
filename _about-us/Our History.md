@@ -68,28 +68,28 @@ Ghim Moh Secondary was established in January 1976. It was located at Portsdown 
 
 In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”
 
-_List of distinguished Principals who helmed the school:_
+List of distinguished Principals who helmed the school:
 
-_Mr Ng Fook Kah (1976 – 1981)_
+Mr Ng Fook Kah (1976 – 1981)
 
-_Mrs Chan Jee Kun (1981 – 1985)_
+Mrs Chan Jee Kun (1981 – 1985)
 
-_Mr Yong Kuck Choon (1986 – 1992)_
+Mr Yong Kuck Choon (1986 – 1992)
 
-_Miss Tay Siew Lian (1993 – 1995)_
+Miss Tay Siew Lian (1993 – 1995)
+	
+Miss Lam Ai-Leen (1996 – 1999)
 
-_Miss Lam Ai-Leen (1996 – 1999)_
-
-_Mr Kwok Kah Kuoy (2000 – 2005)_
-
-_Miss Low Chee Moon (2006)_ <br>
+Mr Kwok Kah Kuoy (2000 – 2005)
+	
+Miss Low Chee Moon (2006)_ <br>
 	
 	
 <img style="width:70%" src="/images/JTSS%20OlNew.png">
 	
 <br>**JIN TAI SECONDARY SCHOOL (1982 to 2006)**
 
-**From Each His Best**
+	<b>From Each His Best</b>
 
 Jin Tai Secondary School began its history in 1982 at 147 West Coast Road. It’s pioneering principal, Mr Ling Ling laid the foundation stone for the school. Its guiding philosophy is best expressed in, A Learning and Caring Community that seeks to bring out the best in everyone. Hence, its school motto came to be: From Each His Best. The school was officially opened on 31 August 1985 by Dr Wan Soon Bee, Minister of State (PMO) and MP for West Coast.
 
@@ -97,12 +97,12 @@ In 2000, the school moved to its new premises at 170 West Coast Road. It was off
 
 With the merger of the two schools, Jin Tai with Ghim Moh in 2007, the last principal, Mr Teoh Teik Hoe handed the campus over to the newly-merged school – Clementi Woods Secondary School.
 
-_List of distinguished Principals who helmed the school:_
+List of distinguished Principals who helmed the school:
 
-_Mr Ling Ling (1982 – 1983)_
+Mr Ling Ling (1982 – 1983)
 
-_Mr Ling Chin Chee (1984 – mid 1994)_
+Mr Ling Chin Chee (1984 – mid 1994)
 
-_Mr Tang Swee Chay (mid 1994 – 1999)_
+Mr Tang Swee Chay (mid 1994 – 1999)
 
-_Mr Teoh Teik Hoe (2000 – 2006)_
+Mr Teoh Teik Hoe (2000 – 2006)
