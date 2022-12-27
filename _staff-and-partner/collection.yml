@@ -1,0 +1,4 @@
+collections:
+  staff-and-partner:
+    output: true
+    order: []
