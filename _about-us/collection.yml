@@ -2,9 +2,9 @@ collections:
   about-us:
     output: true
     order:
-      - TSS School Song.md
       - School Crest and Colours.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
       - School Vision, Mission & Values.md
+      - TSS School Song.md
