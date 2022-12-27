@@ -2,4 +2,4 @@ collections:
   partners:
     output: true
     order:
-      - Partners.md
+      - Alumni.md
