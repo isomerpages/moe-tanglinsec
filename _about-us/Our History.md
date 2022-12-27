@@ -23,27 +23,37 @@ In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School an
 
 List of distinguished Principals of Tanglin Secondary School:<br>
 
-Mr Wu Tsung Kan (1964 – 1968)
-
+Mr Wu Tsung Kan (1964 – 1968) 
+<br>
+<br>
 Mr Chee Keng Long (1969 – 1970)
-
+<br>
+	<br>
 Mr Lim Nai Yan (1971 – 1973)
-
+<br>
+	<br>
 Mr Su Wei Cher (1974 – 1989)
-
+<br>
+	<br>
 Mr Lee Kah Chuen (1989 – 1992)
-
+<br>
+	<br>
 Mr Yang Che Kay (1993 – 1995)
-
+<br>
+	<br>
 Mrs Tan-Chan Yueh Tarn (1995 – 1998)
-
+<br>
+	<br>
 Ms Priscilla Ng Chey Keng (1999 – 2002)
-
-_Mrs Karen Oei (2003 – 2009)_
-
-_Mdm Aini bte Ma’arof (2010 – 2015)_
-
-_Ms Ng Ngoing Keng (2016 – present)_</center><br>
+<br>
+	<br>
+Mrs Karen Oei (2003 – 2009)
+<br>
+	<br>
+Mdm Aini bte Ma’arof (2010 – 2015)
+<br>
+	<br>
+Ms Ng Ngoing Keng (2016 – present)</center><br>
 
 <img style="width:70%" src="/images/Clementiwoodssecondaryschool.jpg">
 
