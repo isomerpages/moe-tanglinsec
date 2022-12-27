@@ -9,7 +9,7 @@ description: ""
 
 <center><b>Leaders of the Future, Pride of the Community</b></center>
 
-**Tanglin Integrated Secondary Technical School** was officially declared open by Mr Ong Pang Boon, Minister of Education, on 16th October 1964. It was situated in the first satellite housing estate of Queenstown at Commonwealth Avenue. It was Singapore’s first technical school where the medium of instruction was in Chinese. It was also the first to admit female students to its technical courses. It was renamed **Tanglin Technical Secondary School** in 1969.
+<b>Tanglin Integrated Secondary Technical School</b> was officially declared open by Mr Ong Pang Boon, Minister of Education, on 16th October 1964. It was situated in the first satellite housing estate of Queenstown at Commonwealth Avenue. It was Singapore’s first technical school where the medium of instruction was in Chinese. It was also the first to admit female students to its technical courses. It was renamed <b>Tanglin Technical Secondary School</b> in 1969.
 
 <img style="width:70%" src="/images/PremergTSS.png"><br>
 
@@ -17,9 +17,9 @@ description: ""
 
 The school celebrated its Silver Jubilee (25th Anniversary) Celebrations in 1989, with Dr Tay Eng Soon, Senior Minister of State for Education as the Guest of Honour. He said: _“Tanglin Technical can take pride in being one of the pioneer technical schools which helped prepare young Singaporeans for industrialisation. In that sense, Tanglin Technical is part of Singapore’s history.”
 
-Tanglin Technical Secondary School was moved to West Coast Road (our current location) in 1993, and was renamed **Tanglin Secondary School**. In that year, we also adopted ‘**Strive for Success’** as our motto. Programmes focusing on the holistic development of the students were introduced, including BASIC (character education) programme, Student Leadership Development Programme, Aesthetic Education Programme, Interdisciplinary Project Work, Innovation & Enterprise, and Sports Education Programme. Partnership with the various Polytechnics led to the introduction of the Applied Subject on ‘Fundamentals of Electronics’ and Advanced Elective Modules.
+Tanglin Technical Secondary School was moved to West Coast Road (our current location) in 1993, and was renamed <b>Tanglin Secondary School</b>. In that year, we also adopted <b>‘Strive for Success’</b> as our motto. Programmes focusing on the holistic development of the students were introduced, including BASIC (character education) programme, Student Leadership Development Programme, Aesthetic Education Programme, Interdisciplinary Project Work, Innovation & Enterprise, and Sports Education Programme. Partnership with the various Polytechnics led to the introduction of the Applied Subject on ‘Fundamentals of Electronics’ and Advanced Elective Modules.
 
-In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to ‘**Leaders of the Future, Pride of the Community**’ to reflect its new mission to prepare its students for an ever-changing world.
+In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to <b>‘ Leaders of the Future, Pride of the Community’ </b> to reflect its new mission to prepare its students for an ever-changing world.
 
 List of distinguished Principals of Tanglin Secondary School:<br>
 
@@ -79,25 +79,35 @@ Ghim Moh Secondary was established in January 1976. It was located at Portsdown 
 In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”
 
 List of distinguished Principals who helmed the school:
+	<br>
+	<br>
 
 Mr Ng Fook Kah (1976 – 1981)
-
+<br>
+	<br>
 Mrs Chan Jee Kun (1981 – 1985)
-
+<br>
+	<br>
 Mr Yong Kuck Choon (1986 – 1992)
-
+<br>
+	<br>
 Miss Tay Siew Lian (1993 – 1995)
-	
+	<br>
+	<br>
 Miss Lam Ai-Leen (1996 – 1999)
-
+<br>
+	<br>
 Mr Kwok Kah Kuoy (2000 – 2005)
-	
-Miss Low Chee Moon (2006)_ <br>
+	<br>
+	<br>
+Miss Low Chee Moon (2006)_ 
+	<br>
+	<br>
 	
 	
 <img style="width:70%" src="/images/JTSS%20OlNew.png">
-	
-<br>**JIN TAI SECONDARY SCHOOL (1982 to 2006)**
+	<br>
+	<b>JIN TAI SECONDARY SCHOOL (1982 to 2006)</b>
 
 	<b>From Each His Best</b>
 
@@ -108,11 +118,17 @@ In 2000, the school moved to its new premises at 170 West Coast Road. It was off
 With the merger of the two schools, Jin Tai with Ghim Moh in 2007, the last principal, Mr Teoh Teik Hoe handed the campus over to the newly-merged school – Clementi Woods Secondary School.
 
 List of distinguished Principals who helmed the school:
-
+<br>
+	<br>
 Mr Ling Ling (1982 – 1983)
-
+<br>
+	<br>
 Mr Ling Chin Chee (1984 – mid 1994)
-
+<br>
+	<br>
 Mr Tang Swee Chay (mid 1994 – 1999)
-
+<br>
+	<br>
 Mr Teoh Teik Hoe (2000 – 2006)
+	<br>
+	<br>
