@@ -10,14 +10,14 @@ sections:
       background: /images/Tanglin.gif
       key_highlights:
         - title: Principal's Message
-          description: ""
+          description: To be Simply Stronger!
           url: /about-us/principalmessage/
         - title: TGIF Recognition Day
-          description: ""
+          description: TGIF'22  (Photo Gallery)
           url: ""
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: Student Leadership
+          description: EVERY TANGLINIAN A LEADER
+          url: ""
   - infobar:
       title: Infobar title
       subtitle: Subtitle
