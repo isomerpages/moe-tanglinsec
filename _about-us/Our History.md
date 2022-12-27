@@ -21,23 +21,23 @@ Tanglin Technical Secondary School was moved to West Coast Road (our current loc
 
 In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to ‘**Leaders of the Future, Pride of the Community**’ to reflect its new mission to prepare its students for an ever-changing world.
 
-_List of distinguished Principals of Tanglin Secondary School:_<br>
+List of distinguished Principals of Tanglin Secondary School:<br>
 
-_Mr Wu Tsung Kan (1964 – 1968)_
+Mr Wu Tsung Kan (1964 – 1968)
 
-_Mr Chee Keng Long (1969 – 1970)_
+Mr Chee Keng Long (1969 – 1970)
 
-_Mr Lim Nai Yan (1971 – 1973)_
+Mr Lim Nai Yan (1971 – 1973)
 
-_Mr Su Wei Cher (1974 – 1989)_
+Mr Su Wei Cher (1974 – 1989)
 
-_Mr Lee Kah Chuen (1989 – 1992)_
+Mr Lee Kah Chuen (1989 – 1992)
 
-_Mr Yang Che Kay (1993 – 1995)_
+Mr Yang Che Kay (1993 – 1995)
 
-_Mrs Tan-Chan Yueh Tarn (1995 – 1998)_
+Mrs Tan-Chan Yueh Tarn (1995 – 1998)
 
-_Ms Priscilla Ng Chey Keng (1999 – 2002)_
+Ms Priscilla Ng Chey Keng (1999 – 2002)
 
 _Mrs Karen Oei (2003 – 2009)_
 
