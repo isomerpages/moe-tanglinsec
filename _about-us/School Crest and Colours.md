@@ -6,7 +6,12 @@ description: ""
 # School Crests and Colours
 
 ### School Crests
-![](/images/1-300x284.jpg)
+<br>
+<br>
+<img src="/images/1-300x284.jpg" style= "width: 100%; margin-right:15px;" align = "left">
+
+<br> 
+<br>
 
 ### ELEMENTS OF THE BADGE 
 The badge was redesigned at the end of 2015 to mark Tanglin Secondary School’s rebirth as a merged school (between old Tanglin Secondary and Clementi Woods Secondary School).
