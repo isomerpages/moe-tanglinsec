@@ -17,4 +17,18 @@ learning and inculcates in them core values that will
 guide them to succeed in a changing world.
 
 ### School Vision
+Leaders of the Future, Pride of the Community
 
+### School Values
+Respect  
+Responsibility  
+Resilience  
+Integrity  
+Care  
+Curiosity to learn
+
+### Strategic Thrusts
+1\. Holistic Curriculum  
+2\. Staff Excellence  
+3. Administrative and Organisational Excellence  
+4\. Strategic Partnership
