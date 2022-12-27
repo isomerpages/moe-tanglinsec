@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Partners.md
       - Tanglin Homecoming Tour.md
       - E Yearbook 2022.md
       - School Crest and Colours.md
