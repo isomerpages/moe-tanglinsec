@@ -2,11 +2,11 @@ collections:
   about-us:
     output: true
     order:
-      - Tanglin Homecoming Tour.md
-      - E Yearbook 2022.md
       - School Crest and Colours.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
       - School Vision, Mission & Values.md
       - TSS School Song.md
+      - E Yearbook 2022.md
+      - Tanglin Homecoming Tour.md
