@@ -2,7 +2,7 @@ collections:
   about-us:
     output: true
     order:
-      - School Vision, Mission & Values.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
+      - School Vision, Mission & Values.md
