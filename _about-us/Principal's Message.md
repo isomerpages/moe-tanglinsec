@@ -9,7 +9,7 @@ description: ""
 <img src="/images/Tanglin%20Principal.jpg" style= "width: 30%; margin-right:15px;" align = "left">
 “Yesterday is history. Tomorrow is a mystery. Today is a gift. That is why it is called the present.”
 
-Yesterday.                                                                                               As we look back on the pandemic-disrupted year that is 2021, we are heartened that Tanglin Secondary School has emerged stronger, together.
+Yesterday. As we look back on the pandemic-disrupted year that is 2021, we are heartened that Tanglin Secondary School has emerged stronger, together.
 
 Together, the staff and students navigated through the challenges to ensure that teaching and learning went on as effectively and in as holistic a manner as possible. Together, the staff and students from our four Visual and Performing Arts CCA rose above themselves to achieve admirable outcomes at the Singapore Youth Festival (SYF) Arts Presentation 2021. Together, the staff and students from our two Sports CCA competed with determination and did the school proud at the National School Games 2021.
 
