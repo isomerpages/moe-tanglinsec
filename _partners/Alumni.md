@@ -69,9 +69,7 @@ description: ""
 *   To give support, pecuniary or otherwise to any deserving project that is connected with the welfare of the School or the Society;
 *   To promote sporting, social and cultural activities amongst Pupils and Former Pupils; and
 *   To assist financially or otherwise the needy and deserving Pupils of the School.
-
-
-
-	
-	
-	
+		
+	<br>
+#### Click here to join us in Facebook!
+http://www.facebook.com/tanglin.secondary.school.alumni/
