@@ -63,7 +63,7 @@ description: ""
 		<br>
 		
 ##### The objectives of the Alumni as stated in the Constitution:
-		*   To promote excellence in the School in order that the Pupils and the Members may contribute positively to the development of Singapore;
+*   To promote excellence in the School in order that the Pupils and the Members may contribute positively to the development of Singapore;
 *   To improve friendly relationships and a spirit of comradeship and identity amongst Former Pupils of the School;
 *   To promote co-operation between the Former Pupils and Pupils of the School;
 *   To give support, pecuniary or otherwise to any deserving project that is connected with the welfare of the School or the Society;
