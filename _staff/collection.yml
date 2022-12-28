@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Example Title.md
       - School Management Committee.md
