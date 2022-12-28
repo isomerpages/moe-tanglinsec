@@ -2,5 +2,5 @@ collections:
   partners:
     output: true
     order:
-      - Grassroot Organization.md
+      - Grassroots Organizations.md
       - Alumni.md
