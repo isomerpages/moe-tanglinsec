@@ -12,3 +12,34 @@ Southwest CDC and the West Coast Community Club are our key community partners. 
 
 We will continue to tap on the strengths of our grassroots partners. We hope that the continued partnerships will transform every Tanglinian into confident, self-directed learners, active community volunteers and contributing citizens of Singapore.
 
+<br>
+<br>
+<br>
+<table>  
+  <tr>  
+    <td><b>Projects<b><td>  
+    <td><b> Grassroot Organisations<b><td>  
+    <td><b> Focus<b><td>  
+  <tr>  
+  <tr>  
+    <td>Project Joy<td>  
+			<td>South West CDC<td>  
+   <td>Values in Action;  
+Service Learning<td>  
+  <tr>  
+  <tr>  
+    <td>Green Schools @ SouthWest<td>  
+    <td>South West CDC <td>  
+   <td>Environment<td>  
+		  <tr>  
+  <tr>  
+    <td>I & E @ South West
+
+*   Partial Funding on Advanced Elective Module (Business Entrepreneurship & Essentials)
+*   Active Aging
+*   South West Youth Camp<td>  
+    <td>South West CDC<td>  
+		<td>Innovation & Enterprise<td>  
+		<tr>  
+  <tr>
+</table>	
