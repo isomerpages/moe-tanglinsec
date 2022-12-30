@@ -1,4 +1,5 @@
 collections:
   academic-department:
     output: true
-    order: []
+    order:
+      - English.md
