@@ -154,3 +154,61 @@ The Mother Tongue Languages (MTL) department in Tanglin Secondary School provide
   </tr>
 </tbody>
 </table>
+<br>
+<br>
+
+### Key Department Programmes / Activities
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Title of Programme / Activity</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Brief Description</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">1.</td>
+    <td class="tg-xyrl"><span style="font-weight:400">MTL Fortnight</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">This is an annual MTL programme where a wide range of activities related to MT languages and cultures are conducted.</span><br><span style="font-weight:400">These activities provide platforms for students to actively learn MTL and the associated cultures so as to experience MTL as ‘living languages’ and provide authentic opportunities for students to use MTL and experience the culture.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2.</td>
+    <td class="tg-tsok"><span style="font-weight:400">MT Language and Cultural camp</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">The CL, ML and TL camps provide an immersive environment for students to learn and use their MTL, and to appreciate the respective MTL cultures.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">3.</td>
+    <td class="tg-xyrl"><span style="font-weight:400">MTL  iTrail</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">The iTrail helps students to understand:</span><br><span style="font-weight:400">The history of Singapore Botanic Gardens</span><br><span style="font-weight:400">Herbs and spices used in our traditional dishes</span><br><span style="font-weight:400">The usage of plants’ names in famous quotes/phrases</span><br><span style="font-weight:400">The iTrail was categorised into different themes: history (NE), food, traditional medicine, festival and arts &amp; craft.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4.</td>
+    <td class="tg-tsok"><span style="font-weight:400">Immersion &amp; education programme-Overseas Educational Trip</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">The trip enriches our students’ schooling experience through interaction with students from China, Chaoyang High School, and to provide our students with the opportunity to learn more about the Chinese education system and culture.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">5.</td>
+    <td class="tg-xyrl"><span style="font-weight:400">MTL Newspaper Reading Programme</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">The programme aims to arouse students’ interest in reading and improve their language competencies.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">6.</td>
+    <td class="tg-tsok"><span style="font-weight:400">Speech Presentation</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">The speech presentation is held monthly where students present their speeches in front of the school during morning</span></td>
+  </tr>
+</tbody>
+</table>
