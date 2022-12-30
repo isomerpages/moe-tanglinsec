@@ -2,6 +2,6 @@ collections:
   signature-programmes:
     output: true
     order:
-      - Student Leadership Development.md
-      - Learning for Life Programme.md
       - Applied Learning Programme (ALP).md
+      - Learning for Life Programme.md
+      - Student Leadership Development.md
