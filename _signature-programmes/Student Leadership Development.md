@@ -10,3 +10,12 @@ description: ""
 
 
 ##### EVERY TANGLINIAN A LEADER
+<br>
+
+###### OUR BELIEFS IN STUDENT LEADERSHIP DEVELOPMENT
+
+We believe that **every Tanglinian can be and should be developed as a leader** who makes a positive difference to others within his/her sphere of influence. In line with our school’s vision, all students, regardless of their education levels, courses of study and whether they hold formal leadership positions, have the potential to be leaders. All students will be imbued with core values that will anchor them in life, and have the opportunity to develop and strengthen leadership competencies through key student development experiences and CCE lessons, to become **Leaders of the Future, Pride of the Community**.
+
+**OUR STUDENT LEADERSHIP FRAMEWORK**
+
+This framework provides an overview of our approach and programmes which support the development of leadership skills and competencies in our students.
