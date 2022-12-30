@@ -1,6 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: ABOUT US
-    collection: about-us
   - title: Contact Us
     url: /contact-us/
+  - title: ABOUT US
+    collection: about-us
+  - title: Signature Programmes
+    collection: signature-programmes
+  - title: Staff
+    collection: staff
+  - title: Partners
+    collection: partners
