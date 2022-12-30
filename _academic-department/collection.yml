@@ -2,4 +2,5 @@ collections:
   academic-department:
     output: true
     order:
+      - Mother Tongue.md
       - English.md
