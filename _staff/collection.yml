@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - School Management Committee.md
-      - School Teachers.md
+      - Teachers.md
       - Executive & Administrative Staff.md
