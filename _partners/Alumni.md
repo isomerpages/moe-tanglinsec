@@ -9,57 +9,70 @@ description: ""
 <br>
 ### Management Committee
 <br>
-<table>  
-  <tr>  
-    <td><b>Position<b><td>  
-    <td><b>Name<b><td>  
-    
-  <tr>  
-  <tr>  
-    <td> President<td>  
-    <td>Edmond Ho<td>  
-   
-  <tr>  
-  <tr>  
-    <td>Honorary Secretary<td>  
-    <td>Mr Goh Mia Chun<td>  
-   
-		  <tr>  
-  <tr>  
-    <td>Honorary Treasurer<td>  
-    <td>Mr Cheah Kok Keong<td>  
-  <tr>  
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
   <tr>
-		  <tr>  
-  <tr>  
-    <td>Asst Honorary Secretary<td>  
-    <td>Mr Seow Kang Seng<td>  
-		<tr>  
-  <tr>  
-    <td>Asst Honorary Treasurer<td>  
-    <td>Mr Lee Wah<td> 
-		<tr>  
-  <tr>  
-    <td> Committee Member<td>  
-    <td>Mr Michael Cheong<td> 
-		<tr>  
-  <tr>  
-    <td>Committee Member <td>  
-    <td>Mr Muhammad Syahrizal Bin Isnin<td> 
-		<tr>  
-  <tr>  
-    <td>Committee Member <td>  
-    <td>Mr Martin Tan<td> 
-		<tr>  
-  <tr>  
-    <td>Auditor <td>  
-    <td>Mr Vincent Tan<td> 
-		<tr>  
-  <tr>  
-    <td>Auditor <td>  
-    <td>Mr Loy Tiew Seng<td> 
-</table>	
-<br>
+    <th class="tg-l2bf"><span style="font-weight:bold">Position</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Name</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">President</td>
+    <td class="tg-h5mn">Mr Edmond Ho</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Vice President</td>
+    <td class="tg-1ppo">Mr Tan Heng Khim</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Honorary Secretary</td>
+    <td class="tg-h5mn">Mr Goh Mia Chun</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Honorary Treasurer</td>
+    <td class="tg-1ppo">Mr Cheah Kok Keong</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Asst Honorary Secretary</td>
+    <td class="tg-h5mn">Mr Seow Kang Seng</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Asst Honorary Treasurer</td>
+    <td class="tg-1ppo">Mr Lee Wah</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Committee Member</td>
+    <td class="tg-h5mn">Mr Michael Cheong</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Committee Member</td>
+    <td class="tg-1ppo">Mr Muhammad Syahrizal bin Isnin</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Committee Member</td>
+    <td class="tg-h5mn">Mr Martin Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">Auditor</td>
+    <td class="tg-1ppo">Mr Vincent Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">Auditor</td>
+    <td class="tg-h5mn">Mr Loy Tiew Seng</td>
+  </tr>
+</tbody>
+</table>
 		<br>
 		
 ##### The objectives of the Alumni as stated in the Constitution:
