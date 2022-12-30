@@ -8,7 +8,6 @@ description: ""
 <br>
 <br>
 
-
 ##### EVERY TANGLINIAN A LEADER
 <br>
 
@@ -19,7 +18,6 @@ We believe that <b>every Tanglinian can be and should be developed as a leader<
 <u> <b>OUR STUDENT LEADERSHIP FRAMEWORK<b> <u>
 
 This framework provides an overview of our approach and programmes which support the development of leadership skills and competencies in our students.
-	
 	<br>
 	<br>
 	
