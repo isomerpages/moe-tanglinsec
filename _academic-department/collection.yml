@@ -1,0 +1,4 @@
+collections:
+  academic-department:
+    output: true
+    order: []
