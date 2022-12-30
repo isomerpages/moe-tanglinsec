@@ -2,5 +2,6 @@ collections:
   staff:
     output: true
     order:
+      - Executive & Administrative Staff.md
       - School Teachers.md
       - School Management Committee.md
