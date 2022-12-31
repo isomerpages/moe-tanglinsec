@@ -2,8 +2,8 @@ collections:
   academic-department:
     output: true
     order:
-      - Humanities.md
-      - Science.md
-      - Mathematics.md
-      - Mother Tongue.md
       - English.md
+      - Mother Tongue.md
+      - Mathematics.md
+      - Science.md
+      - Humanities.md
