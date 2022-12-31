@@ -2,4 +2,5 @@ collections:
   useful-links:
     output: true
     order:
+      - PARENTS.md
       - STAFF.md
