@@ -19,3 +19,10 @@ links:
         url: /LearningForLifeProgramme
       - title: Student Leadership Development
         url: /StudentLeadershipdevelopmentnt
+  - title: HOLISTIC EDUCATION
+    url: /holisticeducation
+    sublinks:
+      - title: Academic Departments
+        url: /academicdepartments
+      - title: Character Development
+        url: /characterdevelopment
