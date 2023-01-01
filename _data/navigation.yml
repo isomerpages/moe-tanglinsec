@@ -22,11 +22,11 @@ links:
     collection: staff
   - title: PARTNERS
     collection: partners
-  - title: HOLISTIC EDUCATION
-    url: /holisticeducation
+  - title: Academic Department
+    url: /academicdepartment
     sublinks:
-      - title: Academic Departments
-        url: /academic-department/
+      - title: English
+        url: /english
       - title: Character Development
         url: /characterdevelopment
   - title: USEFUL LINKS
