@@ -1,10 +1,12 @@
 logo: /images/isomer-logo.svg
 links:
+  - title: "About us "
+    collection: about-us
   - title: About Us
     url: /aboutus
     sublinks:
       - title: Our Accolades
-        url: /Our Accolades
+        url: /Our-Accolades
       - title: Partners
         url: /partners
       - title: Staff
@@ -35,6 +37,8 @@ links:
         url: /academic-department/Science/
       - title: Humanities
         url: /academic-department/Humanities/
+      - title: Craft & Technologies
+        url: /craftandtechnologies
   - title: USEFUL LINKS
     collection: useful-links
   - title: Contact Us
