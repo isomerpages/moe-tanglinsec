@@ -26,9 +26,15 @@ links:
     url: /academicdepartment
     sublinks:
       - title: English
-        url: /english
-      - title: Character Development
-        url: /characterdevelopment
+        url: /academic-department/English/
+      - title: "Mother Tongue "
+        url: /academic-department/mothertongue/
+      - title: Mathematics
+        url: /academic-department/mathematics/
+      - title: Science
+        url: /academic-department/Science/
+      - title: Humanities
+        url: /academic-department/Humanities/
   - title: USEFUL LINKS
     collection: useful-links
   - title: Contact Us
