@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: ABOUT US
-    collection: about-us
   - title: SIGNATURE PROGRAMMES
     url: /signatureprogrammes
     sublinks:
@@ -24,3 +22,12 @@ links:
         url: /characterdevelopment
   - title: Contact Us
     url: /contact-us/
+  - title: About Us
+    url: /aboutus
+    sublinks:
+      - title: Our Accolades
+        url: /Our Accolades
+      - title: Partners
+        url: /partners
+      - title: Staff
+        url: /staff
