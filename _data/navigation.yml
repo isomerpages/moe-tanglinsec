@@ -1,15 +1,7 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: ABOUT US
     collection: about-us
-  - title: SIGNATURE PROGRAMMES
-    collection: signature-programmes
-  - title: STAFF
-    collection: staff
-  - title: PARTNERS
-    collection: partners
   - title: SIGNATURE PROGRAMMES
     url: /signatureprogrammes
     sublinks:
@@ -19,6 +11,10 @@ links:
         url: /LearningForLifeProgramme
       - title: Student Leadership Development
         url: /StudentLeadershipdevelopmentnt
+  - title: STAFF
+    collection: staff
+  - title: PARTNERS
+    collection: partners
   - title: HOLISTIC EDUCATION
     url: /holisticeducation
     sublinks:
@@ -26,3 +22,5 @@ links:
         url: /academicdepartments
       - title: Character Development
         url: /characterdevelopment
+  - title: Contact Us
+    url: /contact-us/
