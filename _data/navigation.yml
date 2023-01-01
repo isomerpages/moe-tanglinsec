@@ -10,3 +10,12 @@ links:
     collection: staff
   - title: PARTNERS
     collection: partners
+  - title: SIGNATURE PROGRAMMES
+    url: /signatureprogrammes
+    sublinks:
+      - title: "Applied Learning Programme "
+        url: /appliedlearningprogramme
+      - title: Learning For Life Programme
+        url: /LearningForLifeProgramme
+      - title: Student Leadership Development
+        url: /StudentLeadershipdevelopmentnt
