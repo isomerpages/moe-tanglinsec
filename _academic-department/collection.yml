@@ -2,6 +2,7 @@ collections:
   academic-department:
     output: true
     order:
+      - Information & Communications.md
       - Discipline.md
       - English.md
       - Mother Tongue.md
