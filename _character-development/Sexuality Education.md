@@ -42,4 +42,18 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 <b>At Tanglin Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:<b>
 
-<b>SECONDARY 2<b>
+<center><b>SECONDARY 2<b></center>
+	<br>
+	![](/images/Sec-2-2022Update.jpg)
+	<br>
+	<center><b>SECONDARY 3<b></center>
+		![](/images/Sec-3-2022Update.jpg)
+		<br>
+		<center><b>SECONDARY 4<b></center>
+			![](/images/Sec-4-2022Update.jpg)
+			<br>
+			<center><b>SECONDARY 5<b></center>
+				![](/images/Sec-5-2022Update.jpg)
+				<br>
+			
+
