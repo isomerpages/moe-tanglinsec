@@ -2,7 +2,7 @@ collections:
   academic-department:
     output: true
     order:
-      - Information & Communications.md
+      - Information & Communications Technologies.md
       - Discipline.md
       - English.md
       - Mother Tongue.md
