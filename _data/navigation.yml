@@ -1,7 +1,5 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: "About us "
-    collection: about-us
   - title: About Us
     url: /aboutus
     sublinks:
@@ -47,3 +45,5 @@ links:
     collection: useful-links
   - title: Contact Us
     url: /contact-us/
+  - title: students
+    collection: about-us
