@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - End Of Year Examinations 2022.md
       - Term 4 Timetable.md
       - Year End Holiday Assignment 2022.md
