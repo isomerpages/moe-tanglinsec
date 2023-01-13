@@ -3,7 +3,6 @@ title: Information & Communications Technologies
 permalink: /academic-department/informationandcommunications/
 description: ""
 ---
-
 ## Information & Communication Technologies
 
 
