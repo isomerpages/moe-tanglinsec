@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Print Screen Stage.md
       - Our School, Our Stories.md
       - School Crest and Colours.md
       - Principal's Message.md
