@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Executive & Administrative Staff.md
       - School Management Committee.md
       - Principal's Message.md
       - WEstory of Tanglin.md
