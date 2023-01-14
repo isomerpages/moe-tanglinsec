@@ -1,7 +1,0 @@
-collections:
-  partners:
-    output: true
-    order:
-      - Alumni.md
-      - Grassroots Organizations.md
-      - School Advisory Committee.md
