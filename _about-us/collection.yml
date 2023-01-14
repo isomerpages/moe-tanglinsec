@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Grassroot Organization.md
       - TGIF Recognition Day.md
       - Print Screen Stage.md
       - Our School, Our Stories.md
