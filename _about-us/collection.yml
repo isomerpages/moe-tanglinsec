@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Teachers.md
       - School Management Committee.md
       - Principal's Message.md
       - WEstory of Tanglin.md
@@ -17,3 +16,4 @@ collections:
       - TGIF Recognition Day.md
       - Grassroot Organization.md
       - School Advisory Committee.md
+      - Teachers.md
