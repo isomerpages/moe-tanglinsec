@@ -2,16 +2,16 @@ collections:
   about-us:
     output: true
     order:
-      - School Advisory Committee.md
-      - Grassroot Organization.md
-      - TGIF Recognition Day.md
-      - Print Screen Stage.md
-      - Our School, Our Stories.md
-      - School Crest and Colours.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
-      - School Vision, Mission & Values.md
       - TSS School Song.md
       - E Yearbook 2022.md
       - Tanglin Homecoming Tour.md
+      - School Vision, Mission & Values.md
+      - School Crest and Colours.md
+      - Our School, Our Stories.md
+      - Print Screen Stage.md
+      - TGIF Recognition Day.md
+      - Grassroot Organization.md
+      - School Advisory Committee.md
