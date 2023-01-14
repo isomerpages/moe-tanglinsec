@@ -5,7 +5,6 @@ description: ""
 ---
 ## Teachers
 <br>
-<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -19,11 +18,11 @@ description: ""
 .tg .tg-w7xe{background-color:#4BB5F2;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-q9wy{background-color:#F7F5F5;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 569px">
+<table class="tg" style="undefined;table-layout: fixed; width: 584px">
 <colgroup>
-<col style="width: 49px">
-<col style="width: 220px">
-<col style="width: 300px">
+<col style="width: 66px">
+<col style="width: 219px">
+<col style="width: 299px">
 </colgroup>
 <thead>
   <tr>
