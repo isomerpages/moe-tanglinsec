@@ -6,8 +6,6 @@ description: ""
 ## School Advisory Committee
 <br>
 <br>
-<br>
-
 <b>Committee Members</b>
 <br>
   <style type="text/css">
