@@ -2,8 +2,8 @@ collections:
   parents:
     output: true
     order:
-      - Academic Support Group.md
       - Termly Letter to Parents.md
       - Parent Support Group.md
       - National Digital Literacy Programme (NDLP).md
       - Sexuality Education.md
+      - Academic Support Group.md
