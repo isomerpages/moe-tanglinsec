@@ -23,3 +23,9 @@ The school have identified the PLD to be Apple iPad. It is important for all stu
 <br>
 
 ![](/images/Screenshot%20(11).png)
+
+**DMA After-School** **Parent Options**
+
+Device Management Application (DMA) software is installed in students’ PLDs to provide a safer digital learning environment, and to prevent misuse of the device. Parents/guardians can choose between these 3 options to suit their preferences for managing the PLDs **after school hours**.
+<br>
+![](/images/NDLP.png)
