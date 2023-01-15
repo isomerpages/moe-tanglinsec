@@ -29,3 +29,11 @@ The school have identified the PLD to be Apple iPad. It is important for all stu
 Device Management Application (DMA) software is installed in students’ PLDs to provide a safer digital learning environment, and to prevent misuse of the device. Parents/guardians can choose between these 3 options to suit their preferences for managing the PLDs **after school hours**.
 <br>
 ![](/images/NDLP.png)
+<br>
+Parents can make a new request to change their choice of DMA option, by submitting the request through the link [https://go.gov.sg/dma-option-request](https://go.gov.sg/dma-option-request) or the QR code by **21st of the calendar month**.
+
+The request wil processed by the school at the start of the following month.
+
+(No action is needed for parents who are keeping their existing DMA option)
+
+_\*Applications installed by parents/guardians and/or students after school hours will be disabled during school hours_![](/images/NDLPGOV.png)
