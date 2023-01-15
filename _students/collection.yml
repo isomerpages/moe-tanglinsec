@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - e Learning Information.md
+      - eLearning Information.md
       - School Uniform.md
       - Student Handbook Discipline.md
       - The Curious Tanglinian.md
