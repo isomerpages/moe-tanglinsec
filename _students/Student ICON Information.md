@@ -50,3 +50,46 @@ Please follow the password requirements below:  
      ·       Password must not match or contain first name.  
      ·       Password must not match or contain last name.  
      ·       Password must not match or contain user ID.
+		 
+		 <br>
+		 <br>
+		 **Q6.    Student IAMS Accounts can also be** **_locked-out_**
+
+Accounts are locked-out due to:
+
+1.  Repeated failed login attempts (more than 5 tries)
+
+ISAC can perform password reset for such accounts via Manage Student Function. 
+
+Note: Password expires every 90 days. Users will be alerted via email 7 days before the expiry date.
+<br>
+<br>
+**Q7.    I have encountered one of the following problems:**
+
+1.  **Error AADSTS900561 given by the Google website.**
+2.  **Website does not load.**
+3.  **Website keeps refreshing between two sites without loading any page.**
+4.  **Website keeps refreshing itself without loading the page.**
+
+<br>
+
+**What should I do?**
+
+1.  Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
+
+1.  b) If the above does not work, useIncognito modeon your browser to login. Upon activating IncogQ8
+
+**Q8.    I receive the following message:** 
+
+Your account is temporarily locked to prevent unauthorized use. What should I do?
+
+—
+
+Please report to **Student IT Helpdesk** at our **School Library**.
+
+(Please provide student full name and class)
+
+  
+Operating Hours:  8:00am – 4:00pm
+
+—
