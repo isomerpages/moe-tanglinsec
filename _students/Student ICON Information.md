@@ -28,3 +28,10 @@ Student iCON is web-based. Students can use their web browser in their internet-
 **Q3.&nbsp;&nbsp; &nbsp;Which Operating System or browser should my students use?**
 
 You can refer to the following table for guidance on the Operating System/browser which students can use to log in.
+<br>
+
+![](/images/OSBrowser.png)
+<br>
+**Q4.    What are the default Google applications available for each level?**
+
+Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.
