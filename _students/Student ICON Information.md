@@ -35,3 +35,18 @@ You can refer to the following table for guidance on the Operating System/browse
 **Q4.    What are the default Google applications available for each level?**
 
 Please refer to the attached Student iCON Onboarding guide for the list of default applications. Any additions to the list of applications will be done after a review of the application and its relevance for use by our students.
+<br>
+**Q5.    What is the password requirement?**  
+
+Please follow the password requirements below:  
+
+*   Password must be at least 8 character(s) long.  
+     ·       Password must contain at least 1 lowercase letter(s).  
+     ·       Password must contain at least 1 numeric character(s).  
+     ·       Password must contain at least 1 uppercase letter(s).  
+     ·       Password must contain at least 2 alphabetic character(s).  
+     ·       Password must not be longer than 24 character(s).  
+     ·       Password must not be one of 3 previous passwords.  
+     ·       Password must not match or contain first name.  
+     ·       Password must not match or contain last name.  
+     ·       Password must not match or contain user ID.
