@@ -2,12 +2,12 @@ collections:
   students:
     output: true
     order:
-      - Student ICON Information.md
-      - eLearning Information.md
-      - School Uniform.md
-      - Student Handbook Discipline.md
-      - The Curious Tanglinian.md
-      - 2022 Booklist.md
-      - End Of Year Examinations 2022.md
-      - Term 4 Timetable.md
       - Year End Holiday Assignment 2022.md
+      - Term 4 Timetable.md
+      - End Of Year Examinations 2022.md
+      - 2022 Booklist.md
+      - The Curious Tanglinian.md
+      - Student Handbook Discipline.md
+      - School Uniform.md
+      - eLearning Information.md
+      - Student ICON Information.md
