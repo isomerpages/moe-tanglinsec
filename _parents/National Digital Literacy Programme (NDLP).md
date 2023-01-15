@@ -19,3 +19,7 @@ The school have identified the PLD to be Apple iPad. It is important for all stu
 **Overview.** The PLD will be used in tandem with the national e-learning platform – the Singapore Student Learning Space (SLS) – as well as other educational technology to personalise and enhance students’ learning. This will also enable students to acquire digital skills and apply these skills as they navigate an increasingly digitalised world.
 
 **Purchase of PLD Bundle.** The school has made arrangements for you to purchase the PLD from AsiaPac Distribution Pte Ltd (vendor) for your child’s/ward’s use in school. The vendor has been identified based on the choice of device determined by the school from a panel of awarded suppliers established by MOE. The PLD bundle which includes warranty and insurance for purchase by your child/ward will be:
+
+<br>
+
+![](/images/Screenshot%20(11).png)
