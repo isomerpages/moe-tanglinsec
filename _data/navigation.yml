@@ -30,7 +30,9 @@ links:
         url: /physicaleducation
       - title: "Student development "
         url: /studentdevelopmentandwellbeing
-  - title: USEFUL LINKS
-    collection: useful-links
+  - title: STUDENTS
+    collection: students
   - title: Contact Us
     url: /contact-us/
+  - title: USEFUL LINKS
+    collection: useful-links
