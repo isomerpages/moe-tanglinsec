@@ -36,4 +36,19 @@ The request wil processed by the school at the start of the following month.
 
 (No action is needed for parents who are keeping their existing DMA option)
 
-_\*Applications installed by parents/guardians and/or students after school hours will be disabled during school hours_![](/images/NDLPGOV.png)
+_\*Applications installed by parents/guardians and/or students after school hours will be disabled during school hours_
+
+![](/images/NDLPGOV.png)
+
+**For more information on NDLP please refer to the following link:**
+
+*   [https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html)
+
+**To support you in keeping your child safe online, you may refer to these additional resources:**
+
+*   Parent Handbooks [(I)](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/05/Parent-Handbook-I-on-Learning-with-a-PLD.pdf) and [(II)](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/05/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Device.pdf) on Learning with a Personal Learning Device (shared by the school)
+*   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)  
+*   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/%20)
+*   [Media Literacy Council](https://go.gov.sg/better-internet-sg)
+*   [National Library’s Learning & Information Literacy Resources](https://sure.nlb.gov.sg/%20)
+*   [TOUCH Community Services](https://help123.sg/)
