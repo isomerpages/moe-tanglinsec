@@ -8,6 +8,7 @@ description: ""
 
 <b>STUDENT ICON</b>
 
+[Student iCON- Student EDM (Onboarding & Introduction)](/files/Student-iCON-Student-EDM-Onboarding-Introducing-Student-iCON.pdf)
 
 
 **FREQUENTLY ASKED QUESTIONS**
