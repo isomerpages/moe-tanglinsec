@@ -2,5 +2,6 @@ collections:
   parents:
     output: true
     order:
+      - Parent Support Group.md
       - National Digital Literacy Programme (NDLP).md
       - Sexuality Education.md
