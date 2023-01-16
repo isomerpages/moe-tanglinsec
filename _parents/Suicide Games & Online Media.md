@@ -44,27 +44,27 @@ When our children are going through distress, they send out warning signs throug
 7.  **S**truggling to pay attention/ increased lethargy
 8.  **S**ending/ posting moody or morbid messages (including expressions of death)
 
-## 2\. Talk about your child’s thoughts and feelings
+### 2\. Talk about your child’s thoughts and feelings
 
 
 Start with some questions to show concern for your child’s well-being, such as, “I noticed that you…. Is there anything you would like to share?” or “Is there something troubling you?”
 
 Take your child’s comments seriously. Refrain from minimising what they are feeling or telling them that they should not feel negative about something. That could pose a barrier for them to open up further. Instead, be open and empathetic by showing that you are trying to understand what they are thinking and feeling. Don’t judge them or their thoughts. Listen, and be caring and kind.
 
-## 3\. Discuss what your child has seen or heard
+### 3\. Discuss what your child has seen or heard
 
 
 If your child shares that he/she has watched a movie or played a game that has themes of self-harm or suicide, discuss his/her thoughts and feelings. Share that while people may identify with the characters in a movie or story, there are many healthy ways to cope with the issues faced and acting on suicidal thoughts is not one of them. Most people who have distressful experiences will reach out to someone, talk to others, and seek help. They can also find other positive ways of coping such as exercising, finding ways to de-stress and doing breathing exercises.  
 [If your child has watched 13RW in particular, check out these points](https://www.jedfoundation.org/13-reasons-why-talking-points/) you could use as you talk with your child.
 
-## 4\. Don’t be afraid to ask your child a direct question about suicide
+### 4\. Don’t be afraid to ask your child a direct question about suicide
 
 
 Contrary to what we may think, asking them such questions does not put the idea in their head but invites them to share what they are feeling without stigma or shame. Direct questions could include, “Are you having thoughts about killing yourself?” or “Do you wish you could end your life?”
 
 If you suspect your child is in danger, get help immediately from SOS 1800 221 4444 or speak to your child’s School Counsellor. Ensure your child’s physical safety and explain that you cannot keep the secret but need to break confidentiality to get the help that they need. Remind them that the thoughts of suicide are just thoughts and that they need not act on them. The impulse to do so may pass after a while.
 
-## 5\. Use the S.P.A.C.E tips
+### 5\. Use the S.P.A.C.E tips
 
 
 The [S.P.A.C.E tips](https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0 "SPACE Card (Apr 2017)") can guide your conversation and foster resilience in the longer term.
@@ -72,7 +72,7 @@ The [S.P.A.C.E tips](https://www.schoolbag.sg/docs/default-source/default-docum
 [![Space Tips 1](https://www.schoolbag.sg/images/default-source/story-images/Suicide-Games-and-Online-Media-What-Should-Parents-Do-/space-tips-1.jpg?sfvrsn=0&MaxWidth=250&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=285D893BE5565EE6237E0E285073AD03 "Space Tips 1")![Space Tips 2](https://www.schoolbag.sg/images/default-source/story-images/Suicide-Games-and-Online-Media-What-Should-Parents-Do-/space-tips-2.jpg?sfvrsn=0&MaxWidth=250&MaxHeight=&ScaleUp=false&Quality=High&Method=ResizeFitToAreaArguments&Signature=51EAA45F3FA58992D9889AAFE9A9D06F "Space Tips 2")](https://www.schoolbag.sg/docs/default-source/default-document-library/space-card-(apr-2017).pdf?sfvrsn=0)  
 _(Click to download)_
 
-## 6\. Encourage a healthy lifestyle and a wide range of coping strategies
+### 6\. Encourage a healthy lifestyle and a wide range of coping strategies
 
 
 Encourage your child to develop a sleeping routine to help them get a good night’s sleep. For example, waking up and getting to bed at the same time, avoiding caffeine during lunchtime and shutting down electronics before bedtime.
@@ -81,7 +81,7 @@ Physical activities can help relieve stress and provide a good distraction from 
 
 Other coping strategies include talking with people they trust, keeping a journal, drawing and expressing themselves through art, practising relaxation and deep breathing. It is helpful to build up a toolbox of a variety of coping strategies.
 
-## 7\. Encourage your child to be a positive influence
+### 7\. Encourage your child to be a positive influence
 
 You can also encourage your child to be a voice of hope and positive influence for his/her peers. Your child can play his/her part to look out for warning signs if a peer is distressed or at risk of suicide. Encourage your child to refer the friend immediately to a trusted adult for help.
 
