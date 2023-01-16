@@ -3,19 +3,15 @@ title: Suicide Games & Online Media
 permalink: /parents/suicidegamesonlinemedia/
 description: ""
 ---
-*   [Parents](https://tanglinsec.moe.edu.sg/982-2/#)
- *   [Information for Parents](https://tanglinsec.moe.edu.sg/982-2/#)
- *   Suicide Games and Online Media
 
-Suicide Games and Online Media
-==============================
+## Suicide Games and Online Media
 
-Suicide Games and Online Media: What Should Parents Do?
-=======================================================
+
+### Suicide Games and Online Media: What Should Parents Do?
+
 
 04 MAY 2017
 
-![What parents should do](https://www.schoolbag.sg/images/default-source/story-images/Suicide-Games-and-Online-Media-What-Should-Parents-Do-/what-parents-should-do.jpg?sfvrsn=0)
 
 You may have heard of the [Blue Whale game](http://www.bbc.co.uk/bbcthree/item/f4db7d77-3a2f-441e-9104-38513e43c295) and [Thirteen Reasons Why (13RW)](https://www.jedfoundation.org/13-reasons-jed-point-view/), or them trending on your social media feed. Such content has been circulating and may negatively influence our children to view suicide as a viable way to deal with their problems, or even romanticise or glamourise the act of suicide.
 
