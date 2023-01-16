@@ -44,8 +44,8 @@ When our children are going through distress, they send out warning signs throug
 7.  **S**truggling to pay attention/ increased lethargy
 8.  **S**ending/ posting moody or morbid messages (including expressions of death)
 
-2\. Talk about your child’s thoughts and feelings
--------------------------------------------------
+## 2\. Talk about your child’s thoughts and feelings
+
 
 Start with some questions to show concern for your child’s well-being, such as, “I noticed that you…. Is there anything you would like to share?” or “Is there something troubling you?”
 
