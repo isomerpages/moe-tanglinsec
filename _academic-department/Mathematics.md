@@ -25,7 +25,11 @@ The Mathematics Department aims to provide students with the necessary skills no
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 283px">
+<colgroup>
+<col style="width: 65.2px">
+<col style="width: 218.2px">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-0f6e" colspan="2">Lower Secondary</th>
