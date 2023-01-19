@@ -11,6 +11,7 @@ description: ""
 
 The Mathematics Department aims to provide students with the necessary skills not only to pass examinations but also to enjoy learning Mathematics. We allow students to explore Mathematics beyond the confines of the textbooks through the use of manipulatives, ICT tools and mathematics projects. The broad range of enrichment programmes offered to students include Algegym, Math Clinics, Math Activity Day and Talent Development Programme and national competitions.   We hope to equip our students with a good foundation in the subject and develop them to become competent life-long learners.
 
+### Subjects Offered 
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
