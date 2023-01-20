@@ -2,13 +2,13 @@ collections:
   about-us:
     output: true
     order:
-      - Our Accolades/.keep
       - Executive & Administrative Staff.md
       - School Management Committee.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
       - TSS School Song.md
+      - Our Accolades/.keep
       - E Yearbook 2022.md
       - Tanglin Homecoming Tour.md
       - School Vision, Mission & Values.md
