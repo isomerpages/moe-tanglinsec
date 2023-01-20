@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Accolades/.keep
       - Executive & Administrative Staff.md
       - School Management Committee.md
       - Principal's Message.md
