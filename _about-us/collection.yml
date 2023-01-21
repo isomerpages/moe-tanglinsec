@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/School Management Committee.md
       - Staff/.keep
       - Partners/School Advisory Committee.md
       - Partners/Grassroot Organization.md
