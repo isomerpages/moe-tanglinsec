@@ -1,5 +1,5 @@
 collections:
-  academic-department:
+  holistic-education:
     output: true
     order:
       - Academic Departments/Humanities.md
