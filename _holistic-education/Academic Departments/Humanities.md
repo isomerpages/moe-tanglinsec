@@ -4,7 +4,6 @@ permalink: /academic-department/Humanities/
 description: ""
 third_nav_title: Academic Departments
 ---
-
 ## Humanities
 <br>
 <br>
