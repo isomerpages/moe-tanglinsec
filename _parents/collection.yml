@@ -2,11 +2,11 @@ collections:
   parents:
     output: true
     order:
-      - Information for Parents/Termly Letter to Parents.md
-      - Information for Parents/.keep
       - Signs of Distress in Children.md
       - Suicide Games & Online Media.md
       - Parent Support Group.md
       - National Digital Literacy Programme (NDLP).md
       - Sexuality Education.md
       - Academic Support Group.md
+      - Information for Parents/.keep
+      - Information for Parents/Termly Letter to Parents.md
