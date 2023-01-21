@@ -2,8 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
-      - Character Development/Sexuality Education.md
-      - Character Development/.keep
+      - Academic Departments/.keep
       - Academic Departments/Humanities.md
       - Academic Departments/Mother Tongue.md
       - Academic Departments/Mathematics.md
@@ -11,4 +10,5 @@ collections:
       - Academic Departments/English.md
       - Academic Departments/Discipline.md
       - Academic Departments/Information & Communications Technologies.md
-      - Academic Departments/.keep
+      - Character Development/.keep
+      - Character Development/Sexuality Education.md
