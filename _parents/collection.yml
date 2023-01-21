@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Information for Parents/.keep
       - Signs of Distress in Children.md
       - Suicide Games & Online Media.md
       - Termly Letter to Parents.md
