@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Staff/Executive & Administrative Staff.md
       - Staff/Teachers.md
       - Staff/School Management Committee.md
       - Staff/.keep
