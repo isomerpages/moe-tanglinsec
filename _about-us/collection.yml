@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Partners/School Advisory Committee.md
       - Partners/Grassroot Organization.md
       - Partners/.keep
       - Executive & Administrative Staff.md
