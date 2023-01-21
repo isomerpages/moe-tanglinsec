@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Academic Departments/.keep
-      - Information & Communications Technologies.md
       - Discipline.md
       - English.md
       - Mother Tongue.md
