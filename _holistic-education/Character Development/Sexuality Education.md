@@ -58,4 +58,12 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 <center><b>SECONDARY 5<b></center>
 	
 ![](/images/Sec-5-2022Update.jpg)
-			
+	<br>
+	**_eTeens_** **Programme**:
+
+8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+
+**At Tanglin Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+	
+	
