@@ -65,3 +65,17 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
 
 **At Tanglin Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+	
+![](/images/eTeens-2022Update.jpg)
+	
+**INFORMATION FOR PARENTS**
+
+10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. The opt-out form can be found in the Parent Gateway. The form is also downloadable [here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/SEd_Annex-A-2022.pdf) . The completed form is to be submitted by 25/02/2022 (Friday).  
+
+12.  Parents who wish to opt their children out of the **_eTeens_ programme (_for Secondary 3 students only_)** need to complete an opt-out form via the Parent Gateway. This form is also downloadable [here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/eTeens_Annex-B-2022.pdf). The completed form is to be submitted by 25/02/2022 (Friday).
+
+13.  Parents can contact the school at [chai\_woon\_yin\_charine@schools.gov.sg](mailto:chai_woon_yin_charine@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
