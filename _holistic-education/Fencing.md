@@ -53,3 +53,97 @@ Training Time & Venue 
 *   3D2N Combined Sports Camp during December Holidays
 
 ## Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 535px">
+<colgroup>
+<col style="width: 42.2px">
+<col style="width: 150.2px">
+<col style="width: 342.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0f6e"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Full Title</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Award / Achievement / Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn"> </td>
+    <td class="tg-rs0e"><span style="font-weight:bold">Singapore Schools Sports Council</span></td>
+    <td class="tg-xyrl">Colours Award for sporting excellence in Fencing (2019)</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">1.</td>
+    <td class="tg-4ufn"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><span style="font-weight:bold">National School Games Fencing Championships</span></td>
+    <td class="tg-tsok">2019 Sportsmanship Award for demonstrating outstanding sportsmanship in Fencing Championships <br><br>2019 B division Boys’ Epee Individual Top 20<br><br>2019 B division Boys’ Sabre Individual Ranked 9th and 10th<br><br>2019 B Division Girls’ Epee &amp; Sabre Individual Top 20<br><br>2019 C Division Boys’ Epee Individual Ranked 3rd<br><br>2019 C Division Boys’ Foil Individual Ranked Top 20<br><br>2019 C Division Girls’ Epee Individual Top 20<br><br>2019 C Division Girls’ Sabre Individual Ranked 8th<br><br>2018 B division Boys’ Epee &amp; Sabre Individual Top 20<br><br>2018 C Division Girls’ Epee &amp; Sabre Individual Top 20<br><br>2017 C Division Boys’ Sabre Individual – Top 202017 B Division Boys’ <br><br>Epee &amp; Sabre Individual – Top 20<br><br>2017 B Division Girls’ Sabre Individual – Top 20 </td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">2.</td>
+    <td class="tg-pr30"><br><br><br><br><br><span style="font-weight:bold">Singapore Minime Fencing Championships </span></td>
+    <td class="tg-xyrl">2019 Boys’ and Girl’s Sabre Individual Top 15<br><br>2019 Boys’ Epee Individual Ranked 2nd<br><br>2019 Girls’ Sabre Individual Ranked 7th <br><br>2018 Girls’ Epee Individual Ranked 3rd<br><br>2018 Boys’ Sabre, Girls Epee and Sabre Individual Top 20<br><br>2017 Boy’s Sabre &amp; Epee Individual – Top 10</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">3.</td>
+    <td class="tg-a3j2"> <span style="font-weight:bold">Singapore Novices</span></td>
+    <td class="tg-tsok">2020 Women’s Foil Individual Ranked Top 20 <br><br>2020 Men’s Epee Individual Top 30 <br><br><br>2019 Men’s Sabre Individual Ranked 3rd and 6th <br><br>2019 Men’s Epee and Sabre Teams Ranked Joint 3rd <br><br>2018 Men’s Sabre Individual Top 20<br><br>2018 Men’s Epee and Sabre Teams Ranked Joint 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">4.</td>
+    <td class="tg-pr30"><span style="font-weight:bold">Singapore Cadet &amp; Junior Fencing Championships</span></td>
+    <td class="tg-xyrl">2017 Men’s &amp; Women’s Epee and Men’s Sabre Individual<br>– Top 20</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">5.</td>
+    <td class="tg-a3j2"> <br><span style="font-weight:bold">Singapore Cadets Challenge </span><br></td>
+    <td class="tg-tsok">2018 Women’s Epee Individual Ranked 7th<br><br>2018 Men’s Epee &amp; Sabre Individual Top 20<br><br>2018 Men’s Epee Team Ranked 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">6.</td>
+    <td class="tg-pr30"><span style="font-weight:bold">Singapore Junior Nationals </span></td>
+    <td class="tg-h5mn">2018 Men’s Sabre Individual Top 20</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">7.</td>
+    <td class="tg-a3j2"> <span style="font-weight:bold">Singapore Youth Olympic Festival </span></td>
+    <td class="tg-tsok">2019 U14 Girls’ Sabre Individual Ranked 7th <br><br>2019 U14 Girls’ Epee and Sabre Individual Top 15 <br><br>2019 U14 Girl’s Sabre Team Ranked Joint 3rd<br><br>2019 U17 Girls’ Epee Individual Ranked 3rd<br><br>2018 U17 Boys’ Epee, Girls’ Epee and Girls’ Sabre <br>Ranked 3rd<br><br>2018 U14 Girls’ Epee and Sabre Ranked 5th and 6th  <br><br>2017 Boy’s Epee Individual Ranked 8th<br><br>2017 Men’s Sabre Individual Ranked 8th</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">8.</td>
+    <td class="tg-pr30"><br><span style="font-weight:bold">Pesta Sukan</span></td>
+    <td class="tg-xyrl">2019 Mixed Sabre Team: Joint 3rd <br><br>2018 Men’s Epee and Sabre Teams: Joint 3rd</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">9.</td>
+    <td class="tg-a3j2"> <span style="font-weight:bold">NUS Fencing Challenge </span></td>
+    <td class="tg-tsok">2019 Women’s Sabre Individual Top 15 <br><br>2018 Men’s Sabre Individual Ranked 6th <br><br>2017 Men’s Sabre Individual Top 15</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">10.</td>
+    <td class="tg-pr30"><br><br><br><br><br><br><br><span style="font-weight:bold">Hwa Chong Fencing Invites</span></td>
+    <td class="tg-xyrl">2020 Men’s Epee Individual Top 15 <br><br>2020 Men’s Sabre Individual Top 15<br> <br>2020 Women’s Epee Individual Top 20<br><br>2020 Women’s Sabre Individual Ranked 6th <br><br>2019 Men’s Sabre Individual Ranked Joint 3rd<br><br>2019 Women’s Epee Individual Ranked 7th<br><br>2019 Women’s Sabre Individual Ranked Joint 3rd <br><br>2018 Men’s Sabre Individual Ranked Joint 3rd </td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">11.</td>
+    <td class="tg-4ufn"><br><br><br><br><span style="font-weight:bold">Raffles Invite</span></td>
+    <td class="tg-tsok">2018 Men’s Sabre Individual Ranked 8th<br><br>2018 Women’s Epee Individual Ranked 6th<br><br>2018 Women’s Epee Individual Ranked 10th<br><br>2017 Men’s Epee Individual Ranked 6th <br><br>2017 Men’s Sabre Individual Ranked 8th </td>
+  </tr>
+</tbody>
+</table>
