@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - School Rules & Regulation.md
       - Year End Holiday Assignment 2022.md
       - Term 4 Timetable.md
       - End Of Year Examinations 2022.md
