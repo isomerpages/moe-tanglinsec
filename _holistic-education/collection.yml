@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Basketball.md
       - Badminton.md
       - Academic Departments/.keep
       - Academic Departments/English.md
