@@ -49,3 +49,59 @@ Key Highlights
 *   Friendly matches with other schools
 *   3D2N Combined Sports Camp during June Holidays
 *   Community involvement opportunities
+
+## Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<colgroup>
+<col style="width: 37.2px">
+<col style="width: 113.2px">
+<col style="width: 401.4px">
+<col style="width: 228.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0f6e"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Year</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Title</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Award / Achievement / Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-h5mn">1.</td>
+    <td class="tg-h5mn">2022</td>
+    <td class="tg-h5mn">South Zone B Boys Interschool Basketball Tournament</td>
+    <td class="tg-h5mn">Top 8</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">2.</td>
+    <td class="tg-1ppo">2017</td>
+    <td class="tg-1ppo">T-Net U16 Inter-school </td>
+    <td class="tg-1ppo">Round 2</td>
+  </tr>
+  <tr>
+    <td class="tg-h5mn">3.</td>
+    <td class="tg-h5mn">2016</td>
+    <td class="tg-h5mn">West Zone B Boys Interschool Basketball Tournament </td>
+    <td class="tg-h5mn">Top 8</td>
+  </tr>
+  <tr>
+    <td class="tg-1ppo">4.</td>
+    <td class="tg-1ppo">2015</td>
+    <td class="tg-1ppo">West Zone B Boys Interschool Basketball Tournament </td>
+    <td class="tg-1ppo">Top 6</td>
+  </tr>
+</tbody>
+</table>
