@@ -4,8 +4,8 @@ permalink: /holistic-education/Character-Development/educationandcareerguidance/
 description: ""
 third_nav_title: Character Development
 ---
-Education and Career Guidance (ECG)
-===================================
+## Education and Career Guidance (ECG)
+
 
 **Overview**   
 
@@ -25,3 +25,11 @@ The goals of ECG are to:
 *   equip students with skills and means to positively engage their parents and other career influencers.**(Engaging the community)**
 
 **How is ECG delivered in our school? ECG is rolled out through a multitude of platforms, as shown in the diagram below, in order to ensure good implementation of the total curriculum for ECG.**
+
+![](/images/4%20Key%20PiLLARS.png)
+
+**ECG Counselling Service**
+
+Have you ever wondered where your career interests lie, which subject combination choices to consider, or wish to find out more about your education and career pathways? You may have a chat with Mr Teng, our school’s ECG Counsellor. Our ECG counsellor supports students either as individual or in small groups (up to 4 pax). Please book an appointment with Mr Teng over email or phone call. Alternatively, you could walk in to do so or go through your form teachers. Please refer to Mr Teng’s availability and office location below:
+
+![](/images/ECG.png)
