@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Co Curricular Activities/Co Curricular Activities.md
       - Co Curricular Activities/.keep
       - Academic Departments/.keep
       - Academic Departments/English.md
