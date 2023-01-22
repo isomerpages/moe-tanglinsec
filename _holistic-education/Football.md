@@ -42,3 +42,73 @@ Football is a sport enjoyed by millions worldwide.  Our boys learn skills and h
 *   Participated in Ulu Pandan Community Sports Club (CSC) Futsal Challenge
 *   3D2N Combined Sports Camp during December holiday
 *   Participated in Delta League (December 2017)
+
+## Achievements
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 798px">
+<colgroup>
+<col style="width: 43.2px">
+<col style="width: 97.2px">
+<col style="width: 389.2px">
+<col style="width: 268.2px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0f6e"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Year</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Full Title</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Award / Achievement / Position</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-xyrl"><span style="font-weight:400">1.</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">2019</span></td>
+    <td class="tg-h5mn">NSG Football C Division League 5 Championship</td>
+    <td class="tg-h5mn">1st</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok"><span style="font-weight:400">2.</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">2017</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">Delta League </span></td>
+    <td class="tg-tsok"><span style="font-weight:400">Top 8 (2nd in South Zone) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl"><span style="font-weight:400">3.</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">2017</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">‘B’ Boys West Zone Championship </span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">2nd</span></td>
+  </tr>
+  <tr>
+    <td class="tg-tsok"><span style="font-weight:400">4.</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">2017</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">Delta League Futsal Competition </span></td>
+    <td class="tg-tsok"><span style="font-weight:400">Top 8</span></td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl"><span style="font-weight:400">5.</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">2017</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">GetActive! Singapore Futsal Competition (Epson Cup)</span></td>
+    <td class="tg-xyrl"><span style="font-weight:400">Top 8 </span></td>
+  </tr>
+  <tr>
+    <td class="tg-tsok"><span style="font-weight:400">6.</span></td>
+    <td class="tg-tsok"><span style="font-weight:400">2016</span></td>
+    <td class="tg-1ppo">Delta League </td>
+    <td class="tg-tsok"><span style="font-weight:400">Top 8</span></td>
+  </tr>
+</tbody>
+</table>
