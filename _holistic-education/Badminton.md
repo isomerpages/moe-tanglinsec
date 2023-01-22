@@ -31,7 +31,9 @@ We aim to inculcate our school values in each of the player and equip them with 
 *   Girls’ Captain – Univia Mah Qixuan
 *   Girls’ Vice Captain – Nur Ayuni Binti Muhamad Fauzi
 
-## Key Highlights 
+## Key Highlights
 
 
 *   West Zone Inter-School ‘B’ Division Boys/Girls Badminton Tournament
+
+![](/images/Screenshot%20(14).png)
