@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Information For Parents/Parents Gateway.md
       - Information For Parents/Signs of Distress in Children.md
       - Information For Parents/.keep
       - Information For Parents/Termly Letter To Parents.md
