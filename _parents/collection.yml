@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Information For Parents/Suicide Games & Online Media.md
       - Information For Parents/Academic Support Group.md
       - Information For Parents/Termly Letter To Parents.md
       - Information For Parents/.keep
