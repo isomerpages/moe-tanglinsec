@@ -3,16 +3,16 @@ title: Volleyball
 permalink: /holistic-education/volleyball/
 description: ""
 ---
-Volleyball
-==========
+# Volleyball
 
-Overview 
----------
+
+## Overview 
+
 
 Volleyball was formed in 2009 and is one of the most popular sports CCAs in the school. Besides learning ball-handling skills and techniques from our professional full-time coach and our teacher-in-charge, our volleyball members also learn about discipline, respect and teamwork**.** School team members gradually learn about dedication and commitment**,** as they find the balance between school work and sports.
 
-Training Time & Venue
----------------------
+## Training Time & Venue
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -44,20 +44,20 @@ Training Time & Venue
 </tbody>
 </table>
 
-Teachers-in-Charge
-------------------
+## Teachers-in-Charge
+
 
 *   Ms Cheng Woan Woan Hannah (OIC)
 *   Ms Toh Hui Min (2IC)
 
-Student Leaders
----------------
+## Student Leaders
+
 
 *   Captain – Kee Jie Yi Fredric
 *   Vice Captain – Elgin Tan Jun Sin
 
-Key Highlights
---------------
+## Key Highlights
+
 
 *   Participated in West Zone Inter-school Volleyball ‘B’ and ‘C’ Division Championship
 *   VAS National Under 14 Junior Championship
