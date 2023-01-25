@@ -2,12 +2,6 @@ collections:
   holistic-education:
     output: true
     order:
-      - Uniform Groups CCA/National Police Cadet Corps.md
-      - Uniform Groups CCA/Boy's Brigade.md
-      - Uniform Groups CCA/Scouts.md
-      - Uniform Groups CCA/National Cadet Corps.md
-      - Uniform Groups CCA/St John Brigade.md
-      - Uniform Groups CCA/.keep
       - Academic Departments/.keep
       - Academic Departments/English.md
       - Academic Departments/Mother Tongue.md
@@ -19,17 +13,23 @@ collections:
       - Academic Departments/Student Development & Well Being.md
       - Academic Departments/Discipline.md
       - Academic Departments/Information & Communications Technologies.md
+      - Character Development/.keep
       - Character Development/ECG Resources.md
       - Character Development/ECG Programmes.md
       - Character Development/Education and Career Guidance.md
       - Character Development/BASIC Programme.md
-      - Character Development/.keep
       - Character Development/Sexuality Education.md
+      - Sports CCA/.keep
       - Sports CCA/Volleyball.md
       - Sports CCA/Netball.md
       - Sports CCA/Football.md
       - Sports CCA/Basketball.md
       - Sports CCA/Fencing.md
       - Sports CCA/Badminton.md
-      - Sports CCA/.keep
       - Sports CCA/Co Curricular Activities.md
+      - Uniform Groups CCA/.keep
+      - Uniform Groups CCA/National Police Cadet Corps.md
+      - Uniform Groups CCA/Boy's Brigade.md
+      - Uniform Groups CCA/Scouts.md
+      - Uniform Groups CCA/National Cadet Corps.md
+      - Uniform Groups CCA/St John Brigade.md
