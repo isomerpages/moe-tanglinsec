@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Uniform Groups CCA/National Police Cadet Corps.md
       - Uniform Groups CCA/Boy's Brigade.md
       - Uniform Groups CCA/Scouts.md
       - Uniform Groups CCA/National Cadet Corps.md
