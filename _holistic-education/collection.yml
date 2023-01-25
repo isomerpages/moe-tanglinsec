@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Concert Band.md
       - Performing Arts CCA/.keep
       - Academic Departments/.keep
       - Academic Departments/English.md
