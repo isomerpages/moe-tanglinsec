@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Scouts.md
       - National Police Cadet Corps.md
       - National Cadet Corps.md
       - Boy's Brigade.md
