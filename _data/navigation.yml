@@ -12,8 +12,3 @@ links:
     url: /contact-us/
   - title: USEFUL LINKS
     collection: useful-links
-  - title: Students 123
-    url: /permalink
-    sublinks:
-      - title: "Home New town "
-        url: https://schoolibrary.moe.edu.sg/newtownsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
