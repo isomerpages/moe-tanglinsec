@@ -43,8 +43,7 @@ Key Highlights
 *   Sports elective programme (Archery tag, golf, laser tag etc)
 *   Leadership, adventure and training camps
 *   Overseas jamborees and camporees (Japan, Hong Kong, Malaysia etc)
-*   **National Patrol Camp  
-    **
+*   **National Patrol Camp**
 
 Achievements
 ------------
