@@ -2,15 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: About Us
     collection: about-us
-  - title: SIGNATURE PROGRAMMES
-    url: /signatureprogrammes
-    sublinks:
-      - title: "Applied Learning Programme "
-        url: /signature-programmes/AppliedLearningProgrammeALP/
-      - title: Learning For Life Programme
-        url: /signature-programmes/learningforlifeprogramme/
-      - title: Student Leadership Development
-        url: /StudentLeadershipdevelopmentnt
+  - title: "SIGNATURE PROGRAMMES "
+    collection: signature-programmes
   - title: Academic Department
     url: /academicdepartment
     sublinks:
