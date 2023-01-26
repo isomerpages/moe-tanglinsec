@@ -6,7 +6,7 @@ description: ""
 Infocomm Club
 =============
 
-
+![](/images/Missing-Pic-005.jpg)
 
 
 Overview
