@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Clubs & Societies CCA/.keep
-      - Infocomm Club.md
       - Percussion Ensemble.md
       - Guzheng Ensemble.md
       - Chinese Dance Ensemble.md
