@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Chinese Dance Ensemble.md
       - Contemporary Dance.md
       - Concert Band.md
       - Performing Arts CCA/.keep
