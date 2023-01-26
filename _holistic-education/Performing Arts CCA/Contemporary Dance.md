@@ -4,23 +4,21 @@ permalink: /holistic-education/contemporarydance/
 description: ""
 third_nav_title: Performing Arts CCA
 ---
+# Contemporary Dance
 
 
-Contemporary Dance
-==================
+## Overview 
 
-Overview 
----------
 
 Contemporary Dance is one of the school’s visual and performing arts CCAs where dancers learn various dance forms and choreography while developing teamwork and leadership skills. Dancers also participate in various camps and events to ignite their passion, showcase their talents and learn from others.
 
-Training Time & Venue
----------------------
+## Training Time & Venue
+
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 701.667px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 125px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 563.667px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Monday (3.00pm – 6.00pm), Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Wednesday (3.00pm – 5.00pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 125px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 563.667px;">Drama Room</td></tr></tbody></table>
 
-Teachers-in-Charge
-------------------
+## Teachers-in-Charge
+
 
 *   Ms Tang Wai Yin (OIC)
     
@@ -28,23 +26,22 @@ Teachers-in-Charge
     
 *   Ms Wahidah Salamon
 
-**Instructors**
----------------
+## **Instructors**
+
 
 *   Ms Jean Tan
 *   Mr Elias Azib
 
-**Student Leaders**
--------------------
+## **Student Leaders**
+
 
 *   President – Kwek Hui Qian, Nerissa
 *   Vice President – Jerine Tan Yu Lin 
 *   Dance Captain – Jolene Tan Mei Xuan
 *   Vice Dance Captain – Joette Valeryn Low
 
-**Key Highlights  
-**
----------------------
+## **Key Highlights  **
+
 
 *   Sec 1 Orientation CCA Open House Performance
     
@@ -59,8 +56,8 @@ Teachers-in-Charge
 *   Tanglin Secondary School Open House Performance
     
 
-Achievements
-------------
+## Achievements
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
