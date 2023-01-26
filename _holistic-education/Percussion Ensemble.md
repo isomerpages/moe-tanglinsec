@@ -6,6 +6,7 @@ description: ""
 Percussion Ensemble
 ===================
 
+![](/images/Percussion_2.jpg)
 
 Overview 
 ---------
