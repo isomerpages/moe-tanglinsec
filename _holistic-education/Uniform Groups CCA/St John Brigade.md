@@ -4,36 +4,35 @@ permalink: /holistic-education/stjohnbrigade/
 description: ""
 third_nav_title: Uniform Groups CCA
 ---
+# St John Brigade
 
-St John Brigade
-===============
 
-Overview
---------
+## Overview
+
 
 Tanglin Secondary School SJB Cadet Corp is established to train qualified first-aiders in every class, family and workplace. Our cadets are well-rounded youths who actively serve the community with their first-aid knowledge. Cadets undergo relevant certification which will equip them to take part in hospital attachments and first-aid competitions. Besides these activities, our cadets also provide first-aid service to major school events. Overall, SJB cadets are disciplined and compassionate youths who are willing to serve the community they are in.
 
-Training Time & Venue
----------------------
+## Training Time & Venue
+
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Wednesday (3.00pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">School Compound</td></tr></tbody></table>
 
-Teachers-in-Charge
-------------------
+## Teachers-in-Charge
+
 
 *   Ms Renuka Selva Rajoo (OIC)
     
 *   Ms Shannon Yap Tuan Chong (2IC)
     
 
-Student Leaders
----------------
+## Student Leaders
+
 
 *   Company Sergeant Major – Nur Nely Sabrina Binte Muhammad Imran
 *   Assistant Company Sergeant Major – Oon Kai Wen Kimberlyn
 
-Key Highlights
---------------
+## Key Highlights
+
 
 *   Life Saving Training and Certification
 *   Drills
@@ -49,8 +48,8 @@ Key Highlights
 *   Walkathon
 *   Flag Day
 
-Achievements
-------------
+## Achievements
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
