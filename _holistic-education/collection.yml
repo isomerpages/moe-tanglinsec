@@ -2,12 +2,12 @@ collections:
   holistic-education:
     output: true
     order:
-      - Performing Arts/Chinese Dance Ensemble.md
-      - Performing Arts/Concert Band.md
-      - Performing Arts/Percussion Ensemble.md
-      - Performing Arts/Guzheng Ensemble.md
-      - Performing Arts/Contemporary Dance.md
-      - Performing Arts/.keep
+      - Performing Arts CCA/Chinese Dance Ensemble.md
+      - Performing Arts CCA/Concert Band.md
+      - Performing Arts CCA/Percussion Ensemble.md
+      - Performing Arts CCA/Guzheng Ensemble.md
+      - Performing Arts CCA/Contemporary Dance.md
+      - Performing Arts CCA/.keep
       - Clubs & Societies CCA/Infocomm Club.md
       - Clubs & Societies CCA/.keep
       - Academic Departments/.keep
