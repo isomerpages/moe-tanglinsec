@@ -2,6 +2,7 @@ collections:
   holistic-education:
     output: true
     order:
+      - Performing Arts/Contemporary Dance.md
       - Performing Arts/.keep
       - Clubs & Societies CCA/Infocomm Club.md
       - Clubs & Societies CCA/.keep
