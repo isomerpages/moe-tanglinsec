@@ -4,42 +4,40 @@ permalink: /holistic-education/concertband/
 description: ""
 third_nav_title: Performing Arts CCA
 ---
+# Concert Band
 
 
-Concert Band
-============
+## Overview 
 
-Overview 
----------
 
 Tanglin Concert Band offers a wide range of learning experiences aimed at developing personal discipline, teamwork as well as confidence in our members while enabling them to pursue their love for music. Apart from performing on stage in school and at public platforms, members can look forward to gaining enriching experiences through activities such as music exchange programmes with other secondary school bands and specialised music workshops such as those organised by the Wind Bands Association of Singapore.
 
-Training Time & Venue
----------------------
+## Training Time & Venue
+
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 622.667px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 121px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 487.667px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Monday (3.00pm – 6.00pm), Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Monday (2.30pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 121px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 487.667px;">AVA Room</td></tr></tbody></table>
 
   
-Teachers-in-Charge
----------------------
+## Teachers-in-Charge
+
 
 *   Mr Phoon Chee Haw (OIC)
 *   Mr Isaac Cheung  (2IC)
 *   Ms Anita Bte Mohamed Salleh
 
-Instructor
-----------
+## Instructor
+
 
 *   Mr Samuel
 
-Student Leaders
----------------
+## Student Leaders
+
 
 *   Band Major – Joel Chan Hao Ming
 *   Drum Major – Seah Qi Rui Aidan
 
-Key Highlights
---------------
+## Key Highlights
+
 
 *   SYF Arts Presentation
 *   Band Festival in Hong Kong
@@ -48,8 +46,8 @@ Key Highlights
 *   School Achievers’ Day, National Day celebration
 *   Public Performances for charity at Polytechnics, shopping centres
 
-Achievements
-------------
+## Achievements
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
