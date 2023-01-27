@@ -2,6 +2,17 @@ collections:
   holistic-education:
     output: true
     order:
+      - Academic Departments/.keep
+      - Academic Departments/English.md
+      - Academic Departments/Mother Tongue.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Science.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Craft & Technology.md
+      - Academic Departments/Physical Education.md
+      - Academic Departments/Student Development & Well Being.md
+      - Academic Departments/Discipline.md
+      - Academic Departments/Information & Communications Technologies.md
       - Character Development/.keep
       - Character Development/National Education.md
       - Character Development/ECG Resources.md
@@ -33,15 +44,4 @@ collections:
       - Clubs & Societies CCA/Infocomm Club.md
       - BASIC Programme.md
       - Cyberwellness.md
-      - Academic Departments/.keep
-      - Academic Departments/English.md
-      - Academic Departments/Mother Tongue.md
-      - Academic Departments/Mathematics.md
-      - Academic Departments/Science.md
-      - Academic Departments/Humanities.md
-      - Academic Departments/Craft & Technology.md
-      - Academic Departments/Physical Education.md
-      - Academic Departments/Student Development & Well Being.md
-      - Academic Departments/Discipline.md
-      - Academic Departments/Information & Communications Technologies.md
       - Aesthetics Programme.md
