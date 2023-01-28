@@ -4,17 +4,49 @@ permalink: /about-us/TGIFrecognitionday/
 description: ""
 third_nav_title: Our Accolades
 ---
+<p>
+<img style="width:25%" src="/images/2022-T1W3-TGIF-Recognition-Day2.jpg" align=left>  
+</p> 
 
-![](/images/2022-T1W3-TGIF-Recognition-Day2.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day3.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day4.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day5.jpg)
+<p>
+<img style="width:25%" src="/images/2022-T1W3-TGIF-Recognition-Day3.jpg" align=left>  
+</p> 
+
+<p>  
+<img style="width:25%" src="/images/2022-T1W3-TGIF-Recognition-Day4.jpg" align=left>  
+</p> 
+
+<p>
+<img style="width:25%" src="/images/2022-T1W3-TGIF-Recognition-Day5.jpg" align=left>  
+</p>
 
 
-![](/images/2022-T1W3-TGIF-Recognition-Day6.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day7.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day8-1.jpg)
-![](/images/2022-T1W3-TGIF-Recognition-Day9-1.jpg)
+
+<br clear="left">
+
+
+<p>
+<img style="width:25%" src="" align=left>  
+</p> 
+
+<p>
+<img style="width:25%" src="" align=left>  
+</p> 
+
+<p>  
+<img style="width:25%" src="" align=left>  
+</p> 
+
+<p>
+<img style="width:25%" src="" align=left>  
+</p>
+
+
+
+/images/2022-T1W3-TGIF-Recognition-Day6.jpg
+/images/2022-T1W3-TGIF-Recognition-Day7.jpg
+/images/2022-T1W3-TGIF-Recognition-Day8-1.jpg
+/images/2022-T1W3-TGIF-Recognition-Day9-1.jpg
 
 ![](/images/2022-T1W3-TGIF-Recognition-Day10-1.jpg)
 ![](/images/2022-T1W3-TGIF-Recognition-Day11-1.jpg)
