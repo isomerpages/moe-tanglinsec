@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Tanglin.gif
+      background: /images/Tanglin banner.gif
       key_highlights:
         - title: "Every Tanglinian is a confident person "
           description: ""
