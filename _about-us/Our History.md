@@ -3,6 +3,8 @@ title: Our History
 permalink: /about-us/OurHistory/
 description: ""
 ---
+## Our History
+<br>
 <img style="width:45%" src="/images/1-300x284.jpg">
 <center><b>TANGLIN SECONDARY SCHOOL</b></center>   
 <center><b>Leaders of the Future, Pride of the Community</b></center>
