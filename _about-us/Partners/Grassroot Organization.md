@@ -4,7 +4,6 @@ permalink: /about-us/GrassrootOrganization/
 description: ""
 third_nav_title: Partners
 ---
-
 ## Grassroot Organizations
 <br>
 Tanglin Secondary School has identified ‘Strengthening Partnership with Community’ as one of its five strategic thrusts to fulfill its mission to nurture our students to be “Future Ready Tanglinians”. Our curriculum is purposefully designed to include partnership with the community to shape the educational journey of our students.
