@@ -3,12 +3,9 @@ title: Our History
 permalink: /about-us/OurHistory/
 description: ""
 ---
-<img style="width:45%" src="/images/1-300x284.jpg"><br>
-
-<center><b>TANGLIN SECONDARY SCHOOL</b></center><br>   
-
+<img style="width:45%" src="/images/1-300x284.jpg">
+<center><b>TANGLIN SECONDARY SCHOOL</b></center>   
 <center><b>Leaders of the Future, Pride of the Community</b></center>
-
 <b>Tanglin Integrated Secondary Technical School</b> was officially declared open by Mr Ong Pang Boon, Minister of Education, on 16th October 1964. It was situated in the first satellite housing estate of Queenstown at Commonwealth Avenue. It was Singapore’s first technical school where the medium of instruction was in Chinese. It was also the first to admit female students to its technical courses. It was renamed <b>Tanglin Technical Secondary School</b> in 1969.
 
 <img style="width:70%" src="/images/PremergTSS.png"><br>
@@ -71,8 +68,8 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	
 <br><img style="width:900%" src="/images/NewOldSch.png">
 	
-	<center> GHIM MOH SECONDARY SCHOOL (1976 to 2006)  
-		Strive and Persevere </center>
+<center>GHIM MOH SECONDARY SCHOOL (1976 to 2006)  
+		 Strive and Persevere 
 
 Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.
 
@@ -132,3 +129,4 @@ Mr Tang Swee Chay (mid 1994 – 1999)
 Mr Teoh Teik Hoe (2000 – 2006)
 	<br>
 	<br>
+	</center> 
