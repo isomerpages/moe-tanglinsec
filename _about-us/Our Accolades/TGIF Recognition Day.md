@@ -4,6 +4,8 @@ permalink: /about-us/TGIFrecognitionday/
 description: ""
 third_nav_title: Our Accolades
 ---
+## TGIF Recognition Day
+
 <p>
 <img align="left" src="/images/2022-T1W3-TGIF-Recognition-Day2.jpg" style="width:25%">  
 </p> 
@@ -19,7 +21,6 @@ third_nav_title: Our Accolades
 <p>
 <img align="left" src="/images/2022-T1W3-TGIF-Recognition-Day5.jpg" style="width:25%">  
 </p>
-
 
 
 <br clear="left">
