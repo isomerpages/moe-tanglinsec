@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - TGIF Recognition Day.md
       - Principal's Message.md
       - WEstory of Tanglin.md
       - Our History.md
