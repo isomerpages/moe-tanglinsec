@@ -30,5 +30,5 @@ Curiosity to learn
 ### Strategic Thrusts
 1\. Holistic Curriculum  
 2\. Staff Excellence  
-3. Administrative and Organisational Excellence  
+3\. Administrative and Organisational Excellence  
 4\. Strategic Partnership
