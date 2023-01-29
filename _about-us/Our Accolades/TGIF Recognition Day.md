@@ -94,4 +94,7 @@ third_nav_title: Our Accolades
 <p>
 <img align="left" style="width:25%">  
 </p>
-/images/2022-T1W3-TGIF-Recognition-Day22-1.jpg
+
+<p>  
+<img align="left" src=" /images/2022-T1W3-TGIF-Recognition-Day22-1.jpg" style="width:25%"> 
+	</p>
