@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Cyberwellness/Term 1.md
       - Cyberwellness/Resources for Parents.md
       - Cyberwellness/.keep
       - National Digital Literacy Programme (NDLP).md
