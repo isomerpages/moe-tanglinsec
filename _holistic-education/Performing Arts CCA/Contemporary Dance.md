@@ -40,7 +40,7 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
 *   Dance Captain – Jolene Tan Mei Xuan
 *   Vice Dance Captain – Joette Valeryn Low
 
-## **Key Highlights  **
+## **Key Highlights**
 
 
 *   Sec 1 Orientation CCA Open House Performance
