@@ -38,14 +38,18 @@ The request wil processed by the school at the start of the following month.
 
 _\*Applications installed by parents/guardians and/or students after school hours will be disabled during school hours_
 
-![](/images/NDLPGOV.png)
+<p>  
+<img style="width:40%" src="/images/NDLPGOV.png" align=left>  
+<p>
+
 
 **For more information on NDLP please refer to the following link:**
 
 *   [https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html](https://www.moe.gov.sg/microsites/cos2020/refreshing-our-curriculum/strengthen-digital-literacy.html)
 
 **To support you in keeping your child safe online, you may refer to these additional resources:**
-
+<br>
+	<br>
 *   Parent Handbooks [(I)](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/05/Parent-Handbook-I-on-Learning-with-a-PLD.pdf) and [(II)](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/05/Parent-Handbook-II-on-Learning-with-a-Personal-Learning-Device.pdf) on Learning with a Personal Learning Device (shared by the school)
 *   [Parent Kit on Cyber Wellness for Your Child](https://go.gov.sg/moe-cyber-wellness)  
 *   [MOE Cyber Wellness Programme](https://www.moe.gov.sg/programmes/cyber-wellness/%20)
