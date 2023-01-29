@@ -102,3 +102,6 @@ Our scouts participate in a wide variety of activities such as hikes, campfires,
   </tr>
 </tbody>
 </table>
+
+
+![](/images/Screenshot%20(31).png)
