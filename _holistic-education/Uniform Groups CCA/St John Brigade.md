@@ -112,3 +112,5 @@ Tanglin Secondary School SJB Cadet Corp is established to train qualified first-
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(32).png)
