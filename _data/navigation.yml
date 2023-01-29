@@ -8,7 +8,9 @@ links:
     collection: holistic-education
   - title: STUDENTS
     collection: students
-  - title: Contact Us
-    url: /contact-us/
+  - title: PARENTS
+    collection: parents
   - title: USEFUL LINKS
     collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
