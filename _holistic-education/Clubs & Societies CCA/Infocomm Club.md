@@ -4,7 +4,6 @@ permalink: /holistic-education/infocommclub/
 description: ""
 third_nav_title: Clubs & Societies CCA
 ---
-
 Infocomm Club
 =============
 
@@ -98,3 +97,5 @@ Achievements
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(38).png)
