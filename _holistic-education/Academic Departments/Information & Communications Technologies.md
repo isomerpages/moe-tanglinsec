@@ -4,7 +4,6 @@ permalink: /academic-department/informationandcommunications/
 description: ""
 third_nav_title: Academic Departments
 ---
-
 ## Information & Communication Technologies
 
 
@@ -16,8 +15,13 @@ The ICT department seeks to engage and develop students into future-ready and re
 We equip students with baseline ICT skills through enrichment programmes and lessons involving the use of technology during curriculum.  
 
 The school uses the MOE Cyber Wellness framework to develop the students’ instinct to protect and empower themselves to take responsibility for their own well-being in cyberspace.
-
 <br>
+
+![](/images/Screenshot%20(24).png)
+
+
+
+
 
 ## Subjects Offered
 
