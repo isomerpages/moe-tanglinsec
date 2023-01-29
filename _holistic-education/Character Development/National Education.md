@@ -4,7 +4,6 @@ permalink: /holistic-education/nationaleducation/
 description: ""
 third_nav_title: Character Development
 ---
-
 # National Education
 
 
@@ -16,6 +15,9 @@ Experiential learning opportunities are provided to enhance students’ understa
 
 Moreover, school-wide programmes such as the Morning Reading Programme and celebration of Total Defence Day, International Friendship Day, Racial Harmony Day and National Day are among the platforms provided for students to foster understanding and develop a strong sense of identity and rootedness to Singapore.
 
-3images
+3images 
 
-national-education
+![](https://tanglinsec.moe.edu.sg/wp-content/wp-content/uploads/2013/04/national-education-2.jpg)
+
+![national-education](https://tanglinsec.moe.edu.sg/wp-content/uploads//wp-content/uploads/2013/04/national-education.jpg)
+
