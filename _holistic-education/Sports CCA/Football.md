@@ -4,7 +4,6 @@ permalink: /holistic-education/football/
 description: ""
 third_nav_title: Sports CCA
 ---
-
 # Football
 
 
@@ -114,3 +113,5 @@ Football is a sport enjoyed by millions worldwide.  Our boys learn skills and h
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(25)_Football.png)
