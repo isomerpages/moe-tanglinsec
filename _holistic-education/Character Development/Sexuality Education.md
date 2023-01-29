@@ -41,25 +41,26 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
 <b>At Tanglin Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:<b>
-
+<br>
 <center><b>SECONDARY 2<b></center>
 
 ![](/images/Sec-2-2022Update.jpg)
-	
+	<br>
 	
 <center><b>SECONDARY 3<b></center>
 
 ![](/images/Sec-3-2022Update.jpg)
-	
+	<br>
 <center><b>SECONDARY 4<b></center>
-	
+
 ![](/images/Sec-4-2022Update.jpg)
-			
+			<br>
 <center><b>SECONDARY 5<b></center>
 	
 ![](/images/Sec-5-2022Update.jpg)
-	<br>
-	**_eTeens_** **Programme**:
+	
+<br>
+	<b> eTeens Programme <b> :
 
 8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
 	
@@ -68,7 +69,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 **At Tanglin Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 	
 ![](/images/eTeens-2022Update.jpg)
-	
+	<br>
 **INFORMATION FOR PARENTS**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
