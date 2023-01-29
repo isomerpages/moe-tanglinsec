@@ -83,7 +83,7 @@ This is an aptitude-based admissions exercise that allows students to receive co
 
 1\. Joint Intake Exercise (JIE) ‘N’ Admission Booklet This booklet comprises admission information for ITE courses (both DPP Higher Nitec and Nitec courses), including details such as aggregate points, admission procedures and Traineeship programmes.
 
-**2020 JIE ‘N’ Booklet:** [https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf](https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf)
+**2020 JIE ‘N’ Booklet:**  [https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf](https://www.ite.edu.sg/admission/ft/JIEN%20Admission%20Booklet%202019.pdf)
 
 **2\. Polytechnic Foundation Programme (PFP)**
 
