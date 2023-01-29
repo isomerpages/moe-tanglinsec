@@ -6,7 +6,6 @@ third_nav_title: Academic Departments
 ---
 ## Humanities
 <br>
-<br>
 
 #### Overview
 <br>
