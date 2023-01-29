@@ -118,3 +118,5 @@ Contemporary Dance is one of the school’s visual and performing arts CCAs wher
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(34).png)
