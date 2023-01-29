@@ -4,8 +4,6 @@ permalink: /academic-department/Science/
 description: ""
 third_nav_title: Academic Departments
 ---
-
-
 # Science
 
 ### Overview
@@ -109,18 +107,22 @@ Similarly, students will be nurtured to become concerned citizens who will learn
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-h5mn{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 610px">
+<colgroup>
+<col style="width: 51px">
+<col style="width: 146px">
+<col style="width: 413px">
+</colgroup>
 <thead>
   <tr>
-    <th class="tg-l2bf"><span style="font-weight:bold">No.</span></th>
+    <th class="tg-0f6e"><span style="font-weight:bold">No.</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Title of Programme / Activity</span></th>
     <th class="tg-l2bf"><span style="font-weight:bold">Brief Description</span></th>
-    <th class="tg-0lax"></th>
   </tr>
 </thead>
 <tbody>
@@ -128,25 +130,16 @@ Similarly, students will be nurtured to become concerned citizens who will learn
     <td class="tg-h5mn">1</td>
     <td class="tg-rs0e"><span style="font-weight:bold">Guppies Hybridysation (GH)</span></td>
     <td class="tg-tsok"><span style="font-weight:400">GH is about authentic learning. It is suitable for lower secondary science. Through breeding the guppies in tanks, one can learn about the basics of life sciences and how the pH level and temperature of water affect the growth of the guppies.</span></td>
-    <td class="tg-xyrl"><span style="font-weight:400">GH is about authentic learning. It is suitable for lower secondary science. Through breeding the guppies in tanks, one can learn about the basics of life sciences and how the pH level and temperature of water affect the growth of the guppies.</span></td>
-  </tr>
-  <tr>
-    <td class="tg-tsok"><span style="font-weight:400">GH is about authentic learning. It is suitable for lower secondary science. Through breeding the guppies in tanks, one can learn about the basics of life sciences and how the pH level and temperature of water affect the growth of the guppies.</span></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-1ppo">2</td>
     <td class="tg-l2bf"><span style="font-weight:bold">Problem Solving Using Real Data</span></td>
     <td class="tg-tsok"><span style="font-weight:400">This programme is a project collaboration with the Edulab, NIE. Through this programme, students are trained to be analytical through the use of real data to solve real-life problems</span></td>
-    <td class="tg-0lax"></td>
   </tr>
   <tr>
     <td class="tg-h5mn">3</td>
     <td class="tg-rs0e"><span style="font-weight:bold">Young Engineer Space! Programme</span></td>
     <td class="tg-xyrl"><span style="font-weight:400">This is a 30 hours programme in collaboration with the Singapore Institute of Technology. This programme aims to educate the Sec 3NA students on STEM (Science-Technology-Engineering-Mathematics) and inspire them to take up a career that is science or engineering related.</span></td>
-    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
