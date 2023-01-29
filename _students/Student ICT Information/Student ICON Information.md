@@ -72,7 +72,6 @@ Note: Password expires every 90 days. Users will be alerted via email 7 days bef
 4.  **Website keeps refreshing itself without loading the page.**
 
 <br>
-
 **What should I do?**
 
 1.  Check that the browser is supported by Student iCON by referring to the Operating System / Browser table above. Close the browser and reopen it. Navigate to [**https://workspace.google.com/dashboard**](https://workspace.google.com/dashboard) and repeat the logging in procedure.
