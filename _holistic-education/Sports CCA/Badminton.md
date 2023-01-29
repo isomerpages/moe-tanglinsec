@@ -4,7 +4,6 @@ permalink: /holistic-education/badminton/
 description: ""
 third_nav_title: Sports CCA
 ---
-
 # Badminton
 
 
