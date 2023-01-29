@@ -77,3 +77,5 @@ Under the guidance of Mr Abdul Rahman from Bloco Singapura, Da Noizee Inc has co
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(37).png)
