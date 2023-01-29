@@ -4,8 +4,7 @@ permalink: /holistic-education/fencing/
 description: ""
 third_nav_title: Sports CCA
 ---
-
-# Fencing
+)# Fencing
 
 
 ## Overview 
@@ -149,3 +148,20 @@ Training Time & Venue 
   </tr>
 </tbody>
 </table>
+<p>  
+<img style="width:25%" src="/images/1SchTraining1_2014.jpg" align=left>  
+</p><p>  
+<img style="width:25%" src="/images/3Studio1.jpg" align=left>  
+</p><p>  
+<img style="width:25%" src="/images/4CampExchange.jpg" align=left>  
+</p><p>  
+<img style="width:25%" src="/images/6SYOF2.jpg" align=left>  
+</p><br clear="left">
+
+<p>  
+<img style="width:25%" src="/images/7SYOF_Epee.jpg" align=left>  
+</p><p>  
+
+
+
+
