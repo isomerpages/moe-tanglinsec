@@ -104,3 +104,5 @@ Chinese Dance is an all-encompassing pursuit of the fine arts. We aim to nurture
   </tr>
 </tbody>
 </table>
+
+![](/images/Screenshot%20(35).png)
