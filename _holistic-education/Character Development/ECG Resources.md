@@ -7,7 +7,7 @@ third_nav_title: Character Development
 ECG Resources
 =============
 
-[**<<back to ECG Homepage**](https://tanglinsec.moe.edu.sg/education-and-career-guidance-ecg/)
+[**<<back to ECG Homepage**]
 
 **ECG Resources – For all students**
 
