@@ -2,10 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - Cyberwellness/.keep
-      - Cyberwellness/Resources for Parents.md
-      - Cyberwellness/Term 1.md
-      - Cyberwellness/Term 2.md
       - National Digital Literacy Programme (NDLP).md
       - Parent Support Group.md
       - Information For Parents/.keep
@@ -15,4 +11,8 @@ collections:
       - Information For Parents/Suicide Games & Online Media.md
       - Information For Parents/Signs of Distress in Children.md
       - Information For Parents/Parents Gateway.md
+      - Cyberwellness/.keep
+      - Cyberwellness/Resources for Parents.md
+      - Cyberwellness/Term 1.md
+      - Cyberwellness/Term 2.md
       - Academic Support Group.md
