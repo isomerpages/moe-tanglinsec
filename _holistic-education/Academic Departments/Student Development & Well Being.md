@@ -64,7 +64,7 @@ The department also looks into the well-being of the students through processes 
 <br>
 
 ### Key Department Programmes / Activities
-<br>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -78,11 +78,11 @@ The department also looks into the well-being of the students through processes 
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 767px">
+<table class="tg" style="undefined;table-layout: fixed; width: 649px">
 <colgroup>
-<col style="width: 59.2px">
-<col style="width: 120.2px">
-<col style="width: 587.2px">
+<col style="width: 60px">
+<col style="width: 159px">
+<col style="width: 430px">
 </colgroup>
 <thead>
   <tr>
@@ -94,17 +94,17 @@ The department also looks into the well-being of the students through processes 
 <tbody>
   <tr>
     <td class="tg-h5mn">1.</td>
-    <td class="tg-xyrl"><span style="font-weight:400">Career Day</span></td>
+    <td class="tg-xyrl"><br><br><br><br><br><br><span style="font-weight:400">Career Day</span></td>
     <td class="tg-xyrl"><span style="font-weight:400">The Career Day is an annual programme for the graduating students. Post-secondary education institutes and industry professionals are invited to conduct talks for the students. Educational booths are also set up for students to browse and gather resources.</span><br><br><span style="font-weight:400">To prepare students to be future-ready, students also embark on a project to complete a self-marketing film to introduce themselves and talk about their strengths, talents, interests, etc. This helps to build self-confidence and awareness in the students, as well as sharpen their presentation skills. A career forum where industrial professionals share their insights and experiences with the students is also held.</span></td>
   </tr>
   <tr>
     <td class="tg-1ppo">2.</td>
-    <td class="tg-tsok"><span style="font-weight:400">Gratitude Programme</span></td>
+    <td class="tg-tsok"><br><br><br><span style="font-weight:400">Gratitude Programme</span></td>
     <td class="tg-tsok"><span style="font-weight:400">The Gratitude programme helps to build resilience in students and a sense of appreciation towards others and life in general. Monthly gratitude sharing and reflection sessions are conducted to build gratitude practices. A gratitude postcard competition is also organised to allow students to express their gratitude through post-card designing.</span></td>
   </tr>
   <tr>
     <td class="tg-h5mn">3.</td>
-    <td class="tg-xyrl"><span style="font-weight:400">Values-in-Action</span></td>
+    <td class="tg-xyrl"><br><br><br><span style="font-weight:400">Values-in-Action</span></td>
     <td class="tg-xyrl"><span style="font-weight:400">The Values-in-Action programme focuses on the IPARD/C (a service-learning approach) method to instil care and responsibility in our students. Students are challenged to find their own passion and causes to solve community issues. Through investigation, preparation, action and reflection, students initiate and drive meaningful community projects to improve the environment and lives of the community.</span></td>
   </tr>
 </tbody>
