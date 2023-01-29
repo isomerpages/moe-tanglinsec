@@ -4,7 +4,6 @@ permalink: /holistic-education/volleyball/
 description: ""
 third_nav_title: Sports CCA
 ---
-
 # Volleyball
 
 
@@ -66,3 +65,5 @@ Volleyball was formed in 2009 and is one of the most popular sports CCAs in the 
 *   2D1N Volleyball Camp during March holiday
 *   3D2N Combined Sports Camp during December holiday
 *   National School Games Volleyball Championships 2019 – ‘B’ Division
+
+![](/images/Screenshot%20(27).png)
