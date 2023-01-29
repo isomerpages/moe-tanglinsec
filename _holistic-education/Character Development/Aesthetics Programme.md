@@ -4,7 +4,6 @@ permalink: /holistic-education/aestheticprogramme/
 description: ""
 third_nav_title: Character Development
 ---
-
 # Aesthetics Programme
 
 
@@ -18,4 +17,4 @@ Dance, Vocal and Drama talents are showcased in our semestral lunchtime concerts
 
 In the 3rd tier development, 20 students are exposed to a 40-hour Advanced Elective Module (AEM) on “Performance and Production Management”.
 
-![](/images/Screenshot%20(16).png)
+![](/images/aesthetics-programme.jpg)
