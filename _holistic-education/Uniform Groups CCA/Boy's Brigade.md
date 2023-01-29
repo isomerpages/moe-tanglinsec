@@ -4,7 +4,6 @@ permalink: /holistic-education/boysbrigade/
 description: ""
 third_nav_title: Uniform Groups CCA
 ---
-
 # Boys’ Brigade
 
 
@@ -135,3 +134,6 @@ The aim of the Boys’ Brigade is to nurture its youth based on strong values to
   </tr>
 </tbody>
 </table>
+
+
+![](/images/Screenshot%20(28).png)
