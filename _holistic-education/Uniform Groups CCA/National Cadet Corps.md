@@ -4,7 +4,6 @@ permalink: /holistic-education/nationalcadetcorp/
 description: ""
 third_nav_title: Uniform Groups CCA
 ---
-
 # National Cadet Corps
 
 
@@ -103,3 +102,5 @@ Tanglin NCC is a uniformed group with a long history and rich traditions. This u
   </tr>
 </tbody>
 </table>
+
+![](/images/NCC%20SS%20.png)
