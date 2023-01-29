@@ -74,7 +74,6 @@ In the English Language and Literature Department, we dedicate our efforts to eq
 </tbody>
 </table>
 		<br>
-		<br>
 		<b> Key Department Programmes / Activities </b>
 		<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
