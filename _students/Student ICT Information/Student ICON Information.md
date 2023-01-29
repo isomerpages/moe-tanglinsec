@@ -4,7 +4,6 @@ permalink: /students/StudentICONInformation/
 description: ""
 third_nav_title: Student ICT Information
 ---
-
 ## Student ICON Information
 
 
@@ -52,10 +51,8 @@ Please follow the password requirements below:  
      ·       Password must not match or contain first name.  
      ·       Password must not match or contain last name.  
      ·       Password must not match or contain user ID.
-		 
-		 <br>
-		 <br>
-		 **Q6.    Student IAMS Accounts can also be** **_locked-out_**
+	<br>
+ **Q6.    Student IAMS Accounts can also be** **_locked-out_**
 
 Accounts are locked-out due to:
 
@@ -65,7 +62,8 @@ ISAC can perform password reset for such accounts via Manage Student Function.
 
 Note: Password expires every 90 days. Users will be alerted via email 7 days before the expiry date.
 <br>
-<br>
+
+
 **Q7.    I have encountered one of the following problems:**
 
 1.  **Error AADSTS900561 given by the Google website.**
