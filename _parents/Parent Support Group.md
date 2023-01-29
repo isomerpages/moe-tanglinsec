@@ -98,3 +98,5 @@ The PSG Treasurer:
 *   keeps proper accounting records of the PSG account;
 *   updates the PSG regularly on the status of the PSG accounts;
 *   advises PSG on the use of PSG funds.
+
+![](/images/Screenshot%20(40).png)
