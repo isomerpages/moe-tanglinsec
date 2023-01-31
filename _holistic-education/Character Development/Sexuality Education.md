@@ -50,10 +50,12 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 <center><b>SECONDARY 3<b></center>
 
 ![](/images/Sec-3-2022Update.jpg)
+	
 	<br>
 <center><b>SECONDARY 4<b></center>
 
 ![](/images/Sec-4-2022Update.jpg)
+	
 			<br>
 <center><b>SECONDARY 5<b></center>
 	
@@ -68,8 +70,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 **At Tanglin Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
 	
+	
 ![](/images/eTeens-2022Update.jpg)
 	<br>
+		
 **INFORMATION FOR PARENTS**
 
 10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
