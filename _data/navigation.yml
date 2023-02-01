@@ -16,4 +16,6 @@ links:
     url: /contact-us/
   - title: Parents 2
     url: /parents
-    sublinks: []
+    sublinks:
+      - title: "MOE Parent Kit "
+        url: https://www.moe.gov.sg/parentkit
