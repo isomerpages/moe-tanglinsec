@@ -8,13 +8,7 @@ links:
     collection: holistic-education
   - title: STUDENTS
     collection: students
-  - title: PARENTS
-    collection: parents
-  - title: USEFUL LINKS
-    collection: useful-links
-  - title: Contact Us
-    url: /contact-us/
-  - title: Parents 2
+  - title: "Parents "
     url: /parents
     sublinks:
       - title: National Digital Literacy
@@ -27,3 +21,9 @@ links:
         url: /informationforparents
       - title: Cyberwellness
         url: /cyberwellness
+  - title: USEFUL LINKS
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/
+  - title: Menu Title
+    resource_room: true
