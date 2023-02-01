@@ -25,5 +25,8 @@ links:
     collection: useful-links
   - title: Contact Us
     url: /contact-us/
-  - title: Menu Title
-    resource_room: true
+  - title: "ABOUT US "
+    url: /aboutus
+    sublinks:
+      - title: Principal's Message
+        url: /principalsmessage
