@@ -7,7 +7,6 @@ third_nav_title: Character Development
 ## ECG Programmes
 
 
-[**<<back to ECG Homepage**]/holistic-education/Character-Development/educationandcareerguidance/
 
 ECG Programmes
 
