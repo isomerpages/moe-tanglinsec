@@ -65,7 +65,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 	
 			<br>
 <center>
-  <b>SECONDARY 2</b>
+  <b>SECONDARY 5 </b>
 </center>
 	
 ![](/images/Sec-5-2022Update.jpg)
