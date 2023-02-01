@@ -1,0 +1,4 @@
+collections:
+  our-accolades:
+    output: true
+    order: []
