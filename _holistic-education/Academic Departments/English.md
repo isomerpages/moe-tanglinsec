@@ -73,7 +73,8 @@ In the English Language and Literature Department, we dedicate our efforts to eq
   </tr>
 </tbody>
 </table>
-		<br>
+		
+<br>
 		<b> Key Department Programmes / Activities </b>
 		<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -87,6 +88,8 @@ In the English Language and Literature Department, we dedicate our efforts to eq
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
+<br>
+		
 <table class="tg">
 <thead>
   <tr>
