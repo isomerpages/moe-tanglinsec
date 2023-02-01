@@ -4,11 +4,7 @@ permalink: /holistic-education/cyberwellness/
 description: ""
 third_nav_title: Character Development
 ---
-
 # Cyberwellness
-
-
-![cyberwellness-framework](https://tanglinsec.moe.edu.sg/wp-content/uploads//wp-content/uploads/2013/04/cyberwellness-framework.jpg)
 
 The Cyberwellness Programme, echoing the MOE Cyber Wellness Framework, focuses on two principles—Respect for Self and Others, and Safe and Responsible Use.
 
