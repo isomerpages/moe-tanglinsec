@@ -12,15 +12,15 @@ links:
     url: /parents
     sublinks:
       - title: National Digital Literacy
-        url: /nationaldigitalliteracyprogramme
+        url: parents/nationaldigitalliteracyprogramme
       - title: "Parent Support Group "
-        url: /parentsupportgroup
+        url: parents/parentsupportgroup
       - title: "MOE Parent Kit "
         url: https://www.moe.gov.sg/parentkit
       - title: Information For Parents
-        url: /informationforparents
+        url: parents/informationforparents
       - title: Cyberwellness
-        url: /cyberwellness
+        url: parents/cyberwellness
   - title: USEFUL LINKS
     collection: useful-links
   - title: Contact Us
