@@ -96,6 +96,24 @@ Key student development experiences such as Values in Action, cohort camps and C
 </table>
 
 
+At the **Team Leadership** Level, students are given opportunities to lead in the various leadership boards, namely the Class Leadership Board, CCA Leadership Board and the Student Council. The Team Leadership model builds accountability to the self, the leadership board and the school.
+
+At the pinnacle of our leadership structure is the Student Council Executive Committee (Exco) as well as the CCA Presidents and Vice-Presidents where our student leaders learn about and develop **Organisational Leadership**. Through formal and informal (on-the-job) training, the Student Council Exco and CCA Leaders learn the art and process of influencing people to lead in identified tasks. They also represent our school at identified platforms, and serve as the voice of the student body.
+
+**OUR APPROACH**
+
+The school is committed to developing our student leaders through “**SPARK**” – Selection, Provision, Affirmation, Reflection and Knowledgeable others.
+
+**Selection**
+
+We believe that all students need to learn about leadership, before they can demonstrate it through their actions. Students who exhibit the ability to lead themselves well will be nominated to take on additional responsibilities and leadership roles as Class Leaders, CCA Leaders or Student Councillors, where they can have a greater sphere of influence.
+
+The **Class Committee** comprises the executive committee and various student representatives. The executive committee consists of the Class Chairman, Vice-Chairman, Secretary/Treasurer, Character and Citizen Education (CCE) Rep and Well-being Rep. Student representatives are appointed in the areas of: Environment, ICT as well as the various subject representatives.
+
+**CCA leaders** are nominated and selected based on their leadership, performance and contributions in their respective CCA groups.
+
+**Student Councillors** are nominated by their Form/Subject/CCA teachers or through self-nomination. Students who meet the criteria of conduct grade and ability to cope with academic and CCA demands will go through an interview by the Student Leadership Development Committee as part of the selection process. The Executive Committee of the Student Council (comprising the President, the Vice President, the Secretary and/or the Treasurer and other key roles) will be selected by the School Management Committee. The President of the Student Council is voted into office by the student body and the school staff with the School Leaders’ endorsement.
+
 
 
 <style type="text/css">
@@ -145,3 +163,17 @@ Key student development experiences such as Values in Action, cohort camps and C
   </tr>
 </tbody>
 </table>
+
+**Affirmation**
+
+Student Leaders are recognised for their leadership and service to the school via various platforms, including Student Leaders’ Investiture, Achievers’ Day and the EAGLES’ Award. 
+
+**Reflection**
+
+Reflection is an important part of the learning process as it allows our student leaders to engage in critical and reflective thinking, and help them to better process their experience and outcomes. Through self-reflection, student leaders check their progress based on their identified vision and hone their leadership skills.
+
+SLD Committee teachers guide student leaders in carrying out reflection after each learning experience and facilitate sharing of students’ reflections so that they could learn from one another. Besides the Borton’s model of reflection, or the 3-2-1 reflection model, student leaders also reflect on their application of the five practices of exemplary leadership.
+
+**Knowledgeable Others**
+
+As part of the student leadership development in TSS, newly appointed Student Leaders will be paired with a more experienced Student Leader to shadow and learn. The latter will help to mentor and provide peer support on less formal settings. SLD Committee teachers will also provide mentoring and reinforce leadership knowledge and skills taught during specific trainings.
