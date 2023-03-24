@@ -94,3 +94,54 @@ Key student development experiences such as Values in Action, cohort camps and C
   </tr>
 </tbody>
 </table>
+
+
+
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 300px">
+<col style="width: 300px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0f6e" rowspan="2"><br><br>Self-Leadership Training<br><br> </th>
+    <th class="tg-tsok">All Sec 1 and 2 students</th>
+    <th class="tg-tsok">Self-Leadership Module</th>
+  </tr>
+  <tr>
+    <th class="tg-xyrl">All students</th>
+    <th class="tg-xyrl">National Youth Achievement Award (NYAA) Bronze programme</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-tsok" rowspan="4"><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>Team Leadership Training<br> <br> </td>
+    <td class="tg-tsok">·       Class Leaders<br>·       CCA Leaders<br>·       Student Councillors</td>
+    <td class="tg-tsok">·       The Student Leadership Challenge (Kouzes and Posner)<br>·       Annual Student Leadership Camps e.g. Peer Support Training workshop, Project Management workshop, Conflict Resolution workshop</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl">·       Class Committee</td>
+    <td class="tg-xyrl">·       Training per semester by Student Leadership Development (SLD) Committee Teachers and HODs/Subject Teachers<br>·       Guidance by SLD Committee Teachers and Form Teachers in daily discharge of duties</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">·       CCA Leaders</td>
+    <td class="tg-tsok">·       Training by CCA Teachers-in-charge<br>·       College of Alice and Peter Tan Student Leadership Action Mentorship programme (CAPTSLAM) for Sec 2 students with leadership potential</td>
+  </tr>
+  <tr>
+    <td class="tg-xyrl">·       Student Councillors</td>
+    <td class="tg-xyrl">·       Training by Student Council teachers-in-charge<br>·       Leadership Camps organised by external partners e.g. Ngee Ann Polytechnic, Singapore Polytechnic, Pivotal Youth</td>
+  </tr>
+</tbody>
+</table>
