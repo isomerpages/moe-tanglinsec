@@ -17,8 +17,8 @@ sections:
           url: /achieversday/
   - infopic:
       title: Principal's Message
-      description: “Yesterday is history. Tomorrow is a mystery. Today is a gift. That
-        is why it is called the present.” Yesterday.[...]
+      description: "“Yesterday is history. Tomorrow is a mystery. Today is a gift.
+        That is why it is called the present.” "
       button: Read More
       url: /about-us/principalmessage/
       image: /images/Tanglin Principal.jpg
