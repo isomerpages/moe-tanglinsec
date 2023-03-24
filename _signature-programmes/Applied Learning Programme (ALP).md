@@ -17,7 +17,8 @@ description: ""
 .tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 860px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700
+												 px">
 <colgroup>
 <col style="width: 860px">
 </colgroup>
