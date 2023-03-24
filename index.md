@@ -10,7 +10,7 @@ sections:
       background: /images/Tanglin banner.gif
       key_highlights:
         - title: "Every Tanglinian is a confident person "
-          description: ""
+          description: Education & Career Guidance
           url: /holistic-education/Character-Development/educationandcareerguidance/
         - title: Achiever's DAY
           description: 58th Achiever's Day Livestream
