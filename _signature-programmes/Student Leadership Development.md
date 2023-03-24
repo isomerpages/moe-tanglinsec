@@ -35,6 +35,62 @@ This framework provides an overview of our approach and programmes which support
 	
 	![](/images/Picture-2.png)
 	
-	Our Student Leadership Development Programme comprises three tiers, starting with <b>Self-Leadership</b> as the foundation. Students learn that leadership is a disposition rather than a position. The knowledge, skills and values articulated across the CCE2021 curriculum form the baseline of leadership knowledge, values and competencies for all students.
+Our Student Leadership Development Programme comprises three tiers, starting with <b>Self-Leadership</b> as the foundation. Students learn that leadership is a disposition rather than a position. The knowledge, skills and values articulated across the CCE2021 curriculum form the baseline of leadership knowledge, values and competencies for all students.
 
 Key student development experiences such as Values in Action, cohort camps and CCA provide opportunities for students to strengthen these leadership competencies. Every Secondary One student will also be guided in fulfilling the requirements of the three key components of the National Youth Achievement Award (NYAA) Bronze Award programme, namely Service Learning, Outdoor Appreciation and Healthy Living (Physical & Mental Wellness), in line with the school’s desired outcomes of nurturing self-directed learners and concerned citizens. After achieving the NYAA Bronze Award, students are offered the Silver Award programme to further develop their leadership skills and competencies, and contribute to service learning in greater depth.
+
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-xyrl{background-color:#E6E6E6;color:#222;text-align:left;vertical-align:top}
+.tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-rs0e{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<colgroup>
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-0f6e"><span style="font-weight:bold">Requirement</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">NYAA Bronze</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">NYAA Silver</span></th>
+    <th class="tg-l2bf"><span style="font-weight:bold">Suggested School Activities</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Target Students</span></td>
+    <td class="tg-xyrl">All Sec 1 students</td>
+    <td class="tg-xyrl">Selected Sec 3 students and Student Leaders</td>
+    <td class="tg-xyrl"> </td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">Service Learning</span></td>
+    <td class="tg-tsok">At least 20 hrs of VIA spread over a minimum period of 4 months</td>
+    <td class="tg-tsok">At least 40 hrs of VIA spread over a minimum period of 8 months</td>
+    <td class="tg-tsok">CCA VIA, School VIA, Community VIA</td>
+  </tr>
+  <tr>
+    <td class="tg-rs0e"><span style="font-weight:bold">Outdoor Appreciation</span></td>
+    <td class="tg-xyrl">At least 15 hrs of outdoor activities with a specific learning goal</td>
+    <td class="tg-xyrl">At least 24 hrs of outdoor activities with a specific learning goal</td>
+    <td class="tg-xyrl">Camps with outdoor programmes such as hikes, tent-pitching, pioneering</td>
+  </tr>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:bold">Healthy Living (Physical &amp; Mental Wellness)</span></td>
+    <td class="tg-tsok">At least 24 hrs of regular activities spread over 6 months</td>
+    <td class="tg-tsok">At least 32 hrs of regular activities spread over 12 months</td>
+    <td class="tg-tsok">Conversational Chinese and Malay Programme, Sports Education Programme, aesthetic programmes</td>
+  </tr>
+</tbody>
+</table>
