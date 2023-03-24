@@ -13,7 +13,7 @@ sections:
           description: ""
           url: /holistic-education/Character-Development/educationandcareerguidance/
         - title: Achiever's DAY
-          description: ""
+          description: 58th Achiever's Day Livestream
           url: /achieversday/
   - infopic:
       title: Principal's Message
@@ -41,4 +41,3 @@ sections:
       image: /images/Tanglin emblem.png
       alt: Image alt text
 ---
-
