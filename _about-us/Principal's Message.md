@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-us/principalmessage/
 description: ""
 ---
-### Principal's Message <br>
+### **Principal's Message** <br>
 
 
 <img src="/images/Tanglin%20Principal.jpg" style= "width: 30%; margin-right:15px;" align = "left">
