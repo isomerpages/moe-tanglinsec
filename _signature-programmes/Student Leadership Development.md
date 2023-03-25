@@ -19,9 +19,13 @@ This framework provides an overview of our approach and programmes which support
 	<br>
 	<br>
 	
-![](/images/Tanglin%20emblem.png)
-	
-	Our student leadership development programmes are based on Kouzes and Posner’s Five Practices of Exemplary Student Leadership:
+<img style="width:50%" src="/images/Tanglin%20emblem.png" align=center>
+
+<br>
+
+Our student leadership development programmes are based on Kouzes and Posner’s Five Practices of Exemplary Student Leadership:
+
+<br>
 
 1.  <b>Model The Way</b>– A Tanglin student leader serves as a positive role model for his/her peers by behaving in ways that reflect the school values.
 2.  <b>Inspire a Shared Vision</b> – A Tanglin student leader envisions the future and enlists others to make it their common vision.
