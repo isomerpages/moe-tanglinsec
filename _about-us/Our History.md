@@ -97,7 +97,7 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 <center>In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”</center>
 
 <center>List of distinguished Principals who helmed the school:</center>
-	<br>
+<br>
 <center>Mr Ng Fook Kah (1976 – 1981)</center>
 <br>
 <center>Mrs Chan Jee Kun (1981 – 1985)</center>
