@@ -127,10 +127,10 @@ List of distinguished Principals who helmed the school:
 <br>
 Mr Ling Ling (1982 – 1983)
 	<br>
-Mr Ling Chin Chee (1984 – mid 1994)
+<center>Mr Ling Chin Chee (1984 – mid 1994)</center>
 	<br>
-Mr Tang Swee Chay (mid 1994 – 1999)
+<center>Mr Tang Swee Chay (mid 1994 – 1999)</center>
 	<br>
-Mr Teoh Teik Hoe (2000 – 2006)
+<center>Mr Teoh Teik Hoe (2000 – 2006)
 	<br>
-	</center>
+</center>
