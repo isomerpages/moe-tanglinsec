@@ -5,9 +5,11 @@ description: ""
 ---
 ## Our History
 <br>
-<img style="width:45%" src="/images/1-300x284.jpg">
-<center><b>TANGLIN SECONDARY SCHOOL</b></center>   
-<center><b>Leaders of the Future, Pride of the Community</b></center>
+<img style="width:35%" src="/images/1-300x284.jpg">
+
+
+<center><b>TANGLIN SECONDARY SCHOOL</center>
+<center>Leaders of the Future, Pride of the Community</b></center>   
 <b>Tanglin Integrated Secondary Technical School</b> was officially declared open by Mr Ong Pang Boon, Minister of Education, on 16th October 1964. It was situated in the first satellite housing estate of Queenstown at Commonwealth Avenue. It was Singapore’s first technical school where the medium of instruction was in Chinese. It was also the first to admit female students to its technical courses. It was renamed <b>Tanglin Technical Secondary School</b> in 1969.
 
 <img style="width:70%" src="/images/PremergTSS.png"><br>
