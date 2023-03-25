@@ -63,7 +63,9 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
   <b>CLEMENTI WOODS SECONDARY SCHOOL (2007 – 2016)</b>
 </center>
 
-<center><b>A place to learn, A space to grow, The quest for Excellence</b></center>
+<center>
+	<b>A place to learn, A space to grow, The quest for Excellence</b>
+</center>
 
 <center>Clementi Woods Secondary School was formed on 1 January 2007 as a merger of Ghim Moh Secondary and Jin Tai Secondary. It was officially opened on 27 March 2009 by Mr S Iswaran, then Senior Minister of State, Ministry of Trade and Industry. It occupies the former premises of Jin Tai Secondary School. The school vision then was – A place to learn, A space to grow. To unite the school, a pioneers’ pledge was instituted, which students and staff had to recite at morning assembly. In 2013, the vision was refined to move the school into its next phase of development by adding ‘The quest for excellence’ as the desired outcome.</center>
 
