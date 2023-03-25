@@ -31,6 +31,7 @@ In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School an
 	<br>
 List of distinguished Principals of Tanglin Secondary School:
 <br>
+	<br>
 Mr Wu Tsung Kan (1964 – 1968) 
 <br>
 <br>
