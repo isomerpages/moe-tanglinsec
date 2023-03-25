@@ -131,10 +131,10 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 <center>List of distinguished Principals who helmed the school:</center>
 <br>
 <center>Mr Ling Ling (1982 – 1983)</center>
-	<br>
+<br>
 <center>Mr Ling Chin Chee (1984 – mid 1994)</center>
-	<br>
+<br>
 <center>Mr Tang Swee Chay (mid 1994 – 1999)</center>
-	<br>
+<br>
 <center>Mr Teoh Teik Hoe (2000 – 2006)</center>
-	<br>
+<br>
