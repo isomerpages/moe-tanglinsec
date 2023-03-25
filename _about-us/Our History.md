@@ -88,7 +88,7 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	<b>GHIM MOH SECONDARY SCHOOL (1976 to 2006)</b>
 </center>  
 	<center>
-	Strive and Persevere
+	<b>Strive and Persevere</b>
 	</center>
 
 <center>Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.</center>
