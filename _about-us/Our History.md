@@ -29,8 +29,8 @@ Tanglin Technical Secondary School was moved to West Coast Road (our current loc
 In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to <b>‘ Leaders of the Future, Pride of the Community’ </b> to reflect its new mission to prepare its students for an ever-changing world.
 <br>
 	<br>
-List of distinguished Principals of Tanglin Secondary School:<br>
-
+List of distinguished Principals of Tanglin Secondary School:
+<br>
 Mr Wu Tsung Kan (1964 – 1968) 
 <br>
 <br>
@@ -91,7 +91,6 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	</center>
 
 <center>Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.</center>
-
 <br>
 
 <center>In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”</center>
