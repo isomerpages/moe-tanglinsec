@@ -24,7 +24,8 @@ description: ""
 <br>
 <br>
 
-### ELEMENTS OF THE BADGE 
+<b><u> ELEMENTS OF THE BADGE </u></b>
+<br>
 The badge was redesigned at the end of 2015 to mark Tanglin Secondary School’s rebirth as a merged school (between old Tanglin Secondary and Clementi Woods Secondary School).
 
 The main design elements of the badge are as follows:
