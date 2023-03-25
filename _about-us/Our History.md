@@ -77,7 +77,9 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	
 <br><img style="width:900%" src="/images/NewOldSch.png">
 	
-<center><b>GHIM MOH SECONDARY SCHOOL (1976 to 2006)  
+<center>
+	<b>GHIM MOH SECONDARY SCHOOL (1976 to 2006)</b>
+</center>  
 	
 	Strive and Persevere 
 
