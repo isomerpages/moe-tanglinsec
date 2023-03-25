@@ -69,7 +69,7 @@ third_nav_title: Partners
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-0f6e"><span style="font-weight:bold">Name</span></th>
+		<th class="tg-0f6e"><span style="font-weight:bold"><b>Name</b></span></th>
   </tr>
 </thead>
 <tbody>
