@@ -30,7 +30,7 @@ The badge was redesigned at the end of 2015 to mark Tanglin Secondary School’s
 
 The main design elements of the badge are as follows:
 
-The <b>PENTAGON<b> symbolises the five main aspects of education: Intellectual, Cultural, Moral, Physical and Aesthetics.
+The <b>PENTAGON</b> symbolises the five main aspects of education: Intellectual, Cultural, Moral, Physical and Aesthetics.
 
 The <b>ARC<b> represents the all-round holistic education that Tanglin Secondary School offers.
 
