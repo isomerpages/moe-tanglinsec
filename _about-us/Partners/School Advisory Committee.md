@@ -4,7 +4,6 @@ permalink: /about-us/SchoolAdvisoryCommittee/
 description: ""
 third_nav_title: Partners
 ---
-
 ## School Advisory Committee
 <br>
 <br>
@@ -20,10 +19,10 @@ third_nav_title: Partners
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 306px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 155px">
-<col style="width: 151px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -64,9 +63,9 @@ third_nav_title: Partners
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 224px">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 224px">
+<col style="width: 400px">
 </colgroup>
 <thead>
   <tr>
