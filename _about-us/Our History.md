@@ -128,7 +128,6 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 <center>With the merger of the two schools, Jin Tai with Ghim Moh in 2007, the last principal, Mr Teoh Teik Hoe handed the campus over to the newly-merged school – Clementi Woods Secondary School.</center>
 <br> 
 <center>List of distinguished Principals who helmed the school:</center>
-
 <br>
 <center>Mr Ling Ling (1982 – 1983)</center>
 	<br>
