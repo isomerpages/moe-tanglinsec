@@ -119,9 +119,8 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	
 <img style="width:70%" src="/images/JTSS%20OlNew.png">
 	<br>
-	<b>JIN TAI SECONDARY SCHOOL (1982 to 2006)
-
-	From Each His Best </b>
+	<center><b>JIN TAI SECONDARY SCHOOL (1982 to 2006)</b></center>
+<center><b>From Each His Best </b></center>
 
 Jin Tai Secondary School began its history in 1982 at 147 West Coast Road. It’s pioneering principal, Mr Ling Ling laid the foundation stone for the school. Its guiding philosophy is best expressed in, A Learning and Caring Community that seeks to bring out the best in everyone. Hence, its school motto came to be: From Each His Best. The school was officially opened on 31 August 1985 by Dr Wan Soon Bee, Minister of State (PMO) and MP for West Coast.
 <br>
