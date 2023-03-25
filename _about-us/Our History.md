@@ -22,8 +22,10 @@ description: ""
 <br>
 The school celebrated its Silver Jubilee (25th Anniversary) Celebrations in 1989, with Dr Tay Eng Soon, Senior Minister of State for Education as the Guest of Honour. He said: _“Tanglin Technical can take pride in being one of the pioneer technical schools which helped prepare young Singaporeans for industrialisation. In that sense, Tanglin Technical is part of Singapore’s history.”
 <br>
+	<br>
 Tanglin Technical Secondary School was moved to West Coast Road (our current location) in 1993, and was renamed <b>Tanglin Secondary School</b>. In that year, we also adopted <b>‘Strive for Success’</b> as our motto. Programmes focusing on the holistic development of the students were introduced, including BASIC (character education) programme, Student Leadership Development Programme, Aesthetic Education Programme, Interdisciplinary Project Work, Innovation & Enterprise, and Sports Education Programme. Partnership with the various Polytechnics led to the introduction of the Applied Subject on ‘Fundamentals of Electronics’ and Advanced Elective Modules.
 <br>
+	<br>
 In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to <b>‘ Leaders of the Future, Pride of the Community’ </b> to reflect its new mission to prepare its students for an ever-changing world.
 <br>
 	<br>
