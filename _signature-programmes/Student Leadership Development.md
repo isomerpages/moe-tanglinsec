@@ -34,7 +34,7 @@ Our student leadership development programmes are based on Kouzes and Posner’s
 5.  <b>Encourage the heart</b> – A Tanglin student leader recognises his/her teammates’ contributions to the success of the project and celebrates team achievements.
 	<br>
 	
-	##### OUR STUDENT LEADERSHIP STRUCTURE
+	<b><u>OUR STUDENT LEADERSHIP STRUCTURE </b></u>
 	
 	
 	![](/images/Picture-2.png)
