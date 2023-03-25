@@ -93,7 +93,6 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 
 <center>Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.</center>
 
-<br>
 <center>In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”</center>
 
 <center>List of distinguished Principals who helmed the school:</center>
@@ -121,20 +120,17 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 <center><b>From Each His Best </b></center>
 
 <center>Jin Tai Secondary School began its history in 1982 at 147 West Coast Road. It’s pioneering principal, Mr Ling Ling laid the foundation stone for the school. Its guiding philosophy is best expressed in, A Learning and Caring Community that seeks to bring out the best in everyone. Hence, its school motto came to be: From Each His Best. The school was officially opened on 31 August 1985 by Dr Wan Soon Bee, Minister of State (PMO) and MP for West Coast.</center>
-<br>
 
 <center>In 2000, the school moved to its new premises at 170 West Coast Road. It was officially opened by Mr Lim Hng Kiang, then Minister for Health and Second Minister for Finance and Member of Parliament for West Coast GRC on 14 July 2001.</center>
-<br>
-	
+
 <center>With the merger of the two schools, Jin Tai with Ghim Moh in 2007, the last principal, Mr Teoh Teik Hoe handed the campus over to the newly-merged school – Clementi Woods Secondary School.</center>
-<br> 
+
 <center>List of distinguished Principals who helmed the school:</center>
-<br>
+
 <center>Mr Ling Ling (1982 – 1983)</center>
-<br>
+
 <center>Mr Ling Chin Chee (1984 – mid 1994)</center>
-<br>
+
 <center>Mr Tang Swee Chay (mid 1994 – 1999)</center>
-<br>
+
 <center>Mr Teoh Teik Hoe (2000 – 2006)</center>
-<br>
