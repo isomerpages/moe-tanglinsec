@@ -94,24 +94,30 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 	</center>
 
 <center>Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.</center>
-<br>
 
+<br>
 <center>In 2005, it was announced that Ghim Moh Secondary School would be merged with Jin Tai Secondary School. Its new name would be Clementi Woods Secondary School. Before the school closed its doors, it celebrated its 30th Anniversary with a public performance entitled ‘ARTStravaganza’. In the words of the last principal, Miss Low Chee Moon who helped oversee the merger of the two schools, “School is not about a building, not even about a name or identity. It is about a community of people.”</center>
 
 <center>List of distinguished Principals who helmed the school:</center>
-<br>
+
+
 <center>Mr Ng Fook Kah (1976 – 1981)</center>
-<br>
+
+
 <center>Mrs Chan Jee Kun (1981 – 1985)</center>
 <br>
 <center>Mr Yong Kuck Choon (1986 – 1992)</center>
-<br>
+
+
 <center>Miss Tay Siew Lian (1993 – 1995)</center>
-<br>
+
+
 <center>Miss Lam Ai-Leen (1996 – 1999)</center>
-<br>
+
+
 <center>Mr Kwok Kah Kuoy (2000 – 2005)</center>
-<br>
+
+
 <center>Miss Low Chee Moon (2006)</center>
 <br>
 <br>
