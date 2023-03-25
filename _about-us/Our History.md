@@ -21,16 +21,14 @@ description: ""
 <center>The school’s crest was updated towards the end of the eighties. The pentagon symbolises the core values of character, knowledge, physical well-being, team spirit, and aesthetics. A book and four horizontal ascending bands were added to signify the new emphasis towards a knowledge-based and character-building education.</center>
 
 <br>
-	
 <center>The school celebrated its Silver Jubilee (25th Anniversary) Celebrations in 1989, with Dr Tay Eng Soon, Senior Minister of State for Education as the Guest of Honour. He said: _“Tanglin Technical can take pride in being one of the pioneer technical schools which helped prepare young Singaporeans for industrialisation. In that sense, Tanglin Technical is part of Singapore’s history.”</center>
 <br>
-	<br>
 <center>Tanglin Technical Secondary School was moved to West Coast Road (our current location) in 1993, and was renamed <b>Tanglin Secondary School</b>. In that year, we also adopted <b>‘Strive for Success’</b> as our motto. Programmes focusing on the holistic development of the students were introduced, including BASIC (character education) programme, Student Leadership Development Programme, Aesthetic Education Programme, Interdisciplinary Project Work, Innovation & Enterprise, and Sports Education Programme. Partnership with the various Polytechnics led to the introduction of the Applied Subject on ‘Fundamentals of Electronics’ and Advanced Elective Modules.</center>
 <br>
-	<br>
+	
 <center>In 2016, Tanglin Secondary School merged with Clementi Woods Secondary School and started a new chapter of its journey, driven with the strengths from each of the schools in its fold. The school motto was updated to <b>‘ Leaders of the Future, Pride of the Community’ </b> to reflect its new mission to prepare its students for an ever-changing world.
 <br>
-	<br>
+	
 List of distinguished Principals of Tanglin Secondary School:
 <br>
 	<br>
@@ -89,9 +87,9 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 <center>
 	<b>GHIM MOH SECONDARY SCHOOL (1976 to 2006)</b>
 </center>  
-	<center>
-	<b>Strive and Persevere</b>
-	</center>
+<center>
+  <b>Strive and Persevere</b>
+</center>
 
 <center>Ghim Moh Secondary was established in January 1976. It was located at Portsdown Road with an enrolment of 200 students in 8 secondary one classes and 12 teachers. Its motto was Strive and Persevere. With an increase in enrolment, it moved to Ghim Moh Estate in 1977. By 1979, it’s first batch of 1511 students sat for the GCE ‘O’ Level Examination. It achieved the top 20 value-added results in 1994 and 1995 for both the Express and Normal streams. It continued to perform well academically yearly. Between 1980 and 1992, the school served as a Pre-University Centre.</center>
 
@@ -100,23 +98,17 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 
 <center>List of distinguished Principals who helmed the school:</center>
 
-
 <center>Mr Ng Fook Kah (1976 – 1981)</center>
 
-
 <center>Mrs Chan Jee Kun (1981 – 1985)</center>
-<br>
-<center>Mr Yong Kuck Choon (1986 – 1992)</center>
 
+<center>Mr Yong Kuck Choon (1986 – 1992)</center>
 
 <center>Miss Tay Siew Lian (1993 – 1995)</center>
 
-
 <center>Miss Lam Ai-Leen (1996 – 1999)</center>
 
-
 <center>Mr Kwok Kah Kuoy (2000 – 2005)</center>
-
 
 <center>Miss Low Chee Moon (2006)</center>
 <br>
