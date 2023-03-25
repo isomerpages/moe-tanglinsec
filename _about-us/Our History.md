@@ -92,25 +92,17 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 
 <center>List of distinguished Principals who helmed the school:</center>
 	<br>
-	<br>
-
 <center>Mr Ng Fook Kah (1976 – 1981)</center>
 <br>
-	<br>
 <center>Mrs Chan Jee Kun (1981 – 1985)</center>
 <br>
-	<br>
 <center>Mr Yong Kuck Choon (1986 – 1992)</center>
 <br>
-	<br>
 <center>Miss Tay Siew Lian (1993 – 1995)</center>
-	<br>
 	<br>
 <center>Miss Lam Ai-Leen (1996 – 1999)</center>
 <br>
-	<br>
 <center>Mr Kwok Kah Kuoy (2000 – 2005)</center>
-	<br>
 	<br>
 <center>Miss Low Chee Moon (2006)</center>
 	<br>
