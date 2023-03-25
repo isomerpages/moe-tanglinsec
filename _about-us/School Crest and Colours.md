@@ -8,7 +8,7 @@ description: ""
 ### School Crests
 <br>
 <br>
-<img src="/images/1-300x284.jpg" style= "width: 60%; margin-right:15px;" align = "left">
+<img src="/images/1-300x284.jpg" style= "width: 55%; margin-right:15px;" align = "left">
 <br> 
 <br>
 <br>
@@ -20,7 +20,6 @@ description: ""
 <br>
 <br>
 <br> 
-<br>
 <br>
 <br>
 <br>
