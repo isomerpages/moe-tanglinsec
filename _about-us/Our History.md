@@ -59,7 +59,9 @@ Ms Ng Ngoing Keng (2016 – present)</center><br>
 
 <img style="width:70%" src="/images/Clementiwoodssecondaryschool.jpg">
 
-<center><b>CLEMENTI WOODS SECONDARY SCHOOL (2007 – 2016)<b></center> 
+<center>
+  <b>CLEMENTI WOODS SECONDARY SCHOOL (2007 – 2016)</b>
+</center>
 
 <center><b>A place to learn, A space to grow, The quest for Excellence</b></center>
 
