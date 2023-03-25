@@ -21,11 +21,11 @@ third_nav_title: Staff
 .tg .tg-4ufn{background-color:#FFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 702px">
+<table class="tg" style="undefined;table-layout: fixed; width: 750px">
 <colgroup>
-<col style="width: 165px">
-<col style="width: 192px">
-<col style="width: 345px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
