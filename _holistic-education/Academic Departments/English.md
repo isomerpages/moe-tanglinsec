@@ -7,12 +7,12 @@ third_nav_title: Academic Departments
 ### English
 <br>
 <br>
-<b>Overview<b>
+<b>Overview</b>
 	<br>
 In the English Language and Literature Department, we dedicate our efforts to equipping our students with the communication and critical thinking skills to be confident individuals. To us, this means developing students who will be able to use language effectively to understand and communicate ideas as well as explore issues that will raise their awareness of the different ways of perceiving the world.
 	<br>
 	<br>
-	<b> Subjects Offered<b>
+	<b> Subjects Offered</b>
 		<br>
 		<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
