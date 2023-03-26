@@ -7,12 +7,12 @@ third_nav_title: Academic Departments
 ## Mother Tongue
 
 
-<b>Overview</b>
+### Overview
 <br>
 The Mother Tongue Languages (MTL) department in Tanglin Secondary School provides a variety of enrichment programmes to arouse students’ interest, enhance awareness and build knowledge in Chinese, Malay and Tamil cultures and languages. These include the MTL Fortnight and Language & Cultural Camps. For students to learn new skills and experience success, opportunities are created for them to participate in intra-school and national competitions. These include calligraphy, creative writing as well as language & cultural competitions.
 <br>
 
-<b>Subjects Offered</b>
+### Subjects Offered
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
