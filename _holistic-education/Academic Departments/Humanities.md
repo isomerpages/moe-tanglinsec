@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Academic Departments
 ---
 ## Humanities
-<br>
 
-#### Overview
+
+### Overview
 <br>
 The Humanities subjects seek to help students acquire deep and broad knowledge and skills to investigate natural phenomena and societal issues. Through the study of different subjects at Lower and Upper Secondary, students are equipped with effective communication, critical thinking and media literacy skills to enable them to be innovative and civic-minded individuals. Leading in the school’s Applied Learning Programme, The Humanities Department offers students authentic and interdisciplinary learning experiences that progressively instils in them the 21st Century skills.
 
 <br>
 
-#### Subjects Offered
+### Subjects Offered
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
