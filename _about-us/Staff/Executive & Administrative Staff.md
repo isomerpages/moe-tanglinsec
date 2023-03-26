@@ -27,9 +27,9 @@ third_nav_title: Staff
 <table class="tg" style="undefined;table-layout: fixed; width: 900px">
 <colgroup>
 <col style="width: 50px">
-<col style="width: 275px">
-<col style="width: 275px">
-<col style="width: 300px">
+<col style="width: 260px">
+<col style="width: 260px">
+<col style="width: 330px">
 </colgroup>
 <thead>
   <tr>
