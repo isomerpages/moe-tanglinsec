@@ -31,10 +31,10 @@ Each Tanglinian will develop their process, organisational and time management s
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 253px">
+<table class="tg" style="undefined;table-layout: fixed; width: 300px">
 <colgroup>
-<col style="width: 37.2px">
-<col style="width: 216.2px">
+<col style="width: 45px">
+<col style="width: 255px">
 </colgroup>
 <thead>
   <tr>
