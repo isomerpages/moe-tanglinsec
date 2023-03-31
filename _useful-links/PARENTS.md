@@ -22,7 +22,7 @@ description: ""
 <thead>
   <tr>
     <th class="tg-l2bf">Parents Gateway</th>
-    <th class="tg-tsok"> <br><a href="https://tanglinsec.moe.edu.sg/wp-content/uploads/2019/02/Instructional_Guide.pdf"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Instructional Guide</span></a>  <br><a href="https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Installation (IOS device)</span></a>  <br><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Installation (Android device)</span></a> <br> </th>
+    <th class="tg-tsok"> <br><a href="https://tanglinsec.moe.edu.sg/wp-content/uploads/2019/02/Instructional_Guide.pdf"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Instructional Guide</span></a>  <br><a href="https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Installation (IOS device)</span></a>  <br><a href="https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG"><span style="text-decoration:underline;color:#02B2F2;background-color:transparent">Installation (Android device)</span></a> <br> </th>
   </tr>
 </thead>
 <tbody>
