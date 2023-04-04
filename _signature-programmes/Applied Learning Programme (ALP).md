@@ -17,8 +17,8 @@ description: ""
 .tg .tg-ats7{background-color:#FFF;border-color:inherit;color:#222;text-align:left;vertical-align:top}
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700
-												 px">
+<table style="undefined;table-layout: fixed; width: 700
+												 px" class="tg">
 <colgroup>
 <col style="width: 860px">
 </colgroup>
@@ -38,7 +38,7 @@ description: ""
     <td class="tg-40vv"><span style="font-weight:bold">Programme Philosophy</span></td>
   </tr>
   <tr>
-    <td class="tg-ats7">The development of a young person’s understanding of society, through the acquisition of future-relevant knowledge and skills, will enable him or her to actively contribute in a technologically-advanced world, where humans and technology have to complement and collaborate. <br> <br>The ALP brings together different school experiences to enable the progressive development of every student through <span style="font-weight:bold">A.C.E</span>.:<br><br><span style="font-weight:bold;text-decoration:underline">A</span><span style="font-weight:bold">uthentic Experiences</span> with interdisciplinary learning, public agencies and industry partners<br><br><span style="font-weight:bold;text-decoration:underline">C</span><span style="font-weight:bold">ommunity Networking</span> with<a href="https://tanglinsec.moe.edu.sg/homepage/character-development/student-leadership/" target="_blank" rel="noopener noreferrer"> </a><a href="https://tanglinsec.moe.edu.sg/homepage/character-development/student-leadership/" target="_blank" rel="noopener noreferrer"><span style="color:#02B2F2;background-color:transparent">Student Leadership</span></a> and Values-In-Action Programmes<br><br><span style="font-weight:bold;text-decoration:underline">E</span><span style="font-weight:bold">mpowerment of Self and Others</span> where self-confidence is built through student choice and inquiry learning </td>
+    <td class="tg-ats7">The development of a young person’s understanding of society, through the acquisition of future-relevant knowledge and skills, will enable him or her to actively contribute in a technologically-advanced world, where humans and technology have to complement and collaborate. <br> <br>The ALP brings together different school experiences to enable the progressive development of every student through <span style="font-weight:bold">A.C.E</span>.:<br><br><span style="font-weight:bold;text-decoration:underline">A</span><span style="font-weight:bold">uthentic Experiences</span> with interdisciplinary learning, public agencies and industry partners<br><br><span style="font-weight:bold;text-decoration:underline">C</span><span style="font-weight:bold">ommunity Networking</span> with<a rel="noopener noreferrer" target="_blank" href="https://tanglinsec.moe.edu.sg/homepage/character-development/student-leadership/"> </a><a rel="noopener noreferrer" target="_blank" href="https://tanglinsec.moe.edu.sg/homepage/character-development/student-leadership/"><span style="color:#02B2F2;background-color:transparent">Student Leadership</span></a> and Values-In-Action Programmes<br><br><span style="font-weight:bold;text-decoration:underline">E</span><span style="font-weight:bold">mpowerment of Self and Others</span> where self-confidence is built through student choice and inquiry learning </td>
   </tr>
   <tr>
     <td class="tg-uqo3"><span style="font-weight:bold">Programme Structure
@@ -52,96 +52,4 @@ description: ""
 
 ![](/images/data%20(1).png)
 
-<p>  
-<img style="width:25%" src="/images/IMG_3413-1.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/IMG_3422-1.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/IMG_3416-1.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/IMG_3424-1.jpg" align=left>  
-</p><br clear="left">
-
-
-
-<p>  
-<img style="width:25%" src="/images/ALP-5.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-6.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-7.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-8.jpg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-9.jpeg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-10.jpeg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-1.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-2.jpeg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-3.jpeg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-4.jpeg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-16.png" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-15.png" align=left>  
-</p><br clear="left">
-
-
-
-<p>  
-<img style="width:25%" src="/images/ALP-17.png" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-18.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-19.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-20.jpg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-21.png" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-22.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-23.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-24.jpg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-25.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-26.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-27.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-28.jpg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-29.png" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-11.jpeg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-12.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-13.png" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/ALP-14.png" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-30.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-31.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/ALP-32.jpg" align=left>  
-</p><br clear="left">
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSh-dmSQYqJ21uHYOWxoTgtBnnRASyVfzyWfShP86Jk89YI-wFGCnfyk4UPGl4kpvPE6qEcCidziQY/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
