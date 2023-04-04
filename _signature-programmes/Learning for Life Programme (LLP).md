@@ -19,4 +19,4 @@ Through their journey in the arts, students develop an aesthetic sensibility, bu
 We raise the platforms for Tanglinians to not only showcase their talents, but to also find ways of harnessing the arts to bring joy to those around them. Students enrich community life through public performances at events like the West Coast Constituency National Day Dinner and Ayer Rajah CC Chinese New Year Celebration. This year, we also launched our inaugural Arts Fiesta@TSS 2018(AF@TSS) to promote visual and performing arts in schools with funding from National Arts Council on 6 April 2018. It is open to&nbsp;Primary Six students from the West Zone Primary Schools.
 
 
-![](/images/Learning%20for%20life.png)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTvYoTyw85aCddL565eZXYBJJjOZ0Rskb95GRr0GNyUJWNXs3fGZ4p3UslZzpZMSBjJ-8T4rNAE-td2/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
