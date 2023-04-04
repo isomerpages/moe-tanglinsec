@@ -52,4 +52,4 @@ description: ""
 
 ![](/images/data%20(1).png)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSh-dmSQYqJ21uHYOWxoTgtBnnRASyVfzyWfShP86Jk89YI-wFGCnfyk4UPGl4kpvPE6qEcCidziQY/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQSh-dmSQYqJ21uHYOWxoTgtBnnRASyVfzyWfShP86Jk89YI-wFGCnfyk4UPGl4kpvPE6qEcCidziQY/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
