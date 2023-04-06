@@ -17,7 +17,7 @@ We equip students with baseline ICT skills through enrichment programmes and les
 The school uses the MOE Cyber Wellness framework to develop the students’ instinct to protect and empower themselves to take responsibility for their own well-being in cyberspace.
 <br>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz9FL0AXCAN9ecxaXpg-i6hgiRBoVlmH2gGENC3YaHlbDrjH86JfeAjqJ8iogAsga8QpLuWoO6lVca/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz9FL0AXCAN9ecxaXpg-i6hgiRBoVlmH2gGENC3YaHlbDrjH86JfeAjqJ8iogAsga8QpLuWoO6lVca/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
 
 
 
