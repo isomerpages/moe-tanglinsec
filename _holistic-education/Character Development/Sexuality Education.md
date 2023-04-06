@@ -72,7 +72,7 @@ b.  Character and Citizenship Education (CCE)
 ![](/images/Sec-5-2022Update.jpg)
 	
 <br>
-	<b> eTeens&nbsp;Programme <b> :
+	<u><b> eTeens&nbsp;Programme <b></b></b></u><b><b> :
 
 8.  _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.&nbsp;&nbsp;
 	
