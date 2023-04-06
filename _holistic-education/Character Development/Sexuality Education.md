@@ -29,10 +29,11 @@ You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)
 <b>OVERVIEW OF&nbsp;TANGLIN&nbsp;SECONDARY&nbsp;SCHOOL’S&nbsp;SEXUALITY&nbsp;EDUCATION&nbsp;PROGRAMME FOR 2022<b>
 
 4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp; &nbsp;
+	
  5.&nbsp; The subjects that incorporate topics on sexuality include
 
-1.  &nbsp; Science
-2.  &nbsp; Character and Citizenship Education (CCE)
+a.  Science
+b.  Character and Citizenship Education (CCE)
 
 <b>Sexuality Education Lessons<b>
 
