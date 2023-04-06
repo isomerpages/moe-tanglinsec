@@ -18,26 +18,26 @@ In Tanglin, every student takes part in one CCA taken from the following optio
 
 **Physical Sports**
 
-*   [Badminton]
-*   [Basketball]
-*   [Fencing]
-*   [Football]
-*   [Netball]
-*   [Volleyball]
+*   [Badminton]()
+*   [Basketball]()
+*   [Fencing]()
+*   [Football]()
+*   [Netball]()
+*   [Volleyball]()
 
 **Uniformed Groups**
 
-*   [Boys’ Brigade](https://tanglinsec.moe.edu.sg/homepage/boys-brigade/)
-*   [National Cadet Corps](https://tanglinsec.moe.edu.sg/homepage/national-cadet-corps/)
-*   [National Police Cadet Corps](https://tanglinsec.moe.edu.sg/homepage/national-police-cadet-corps/)
-*   [Scouts](https://tanglinsec.moe.edu.sg/scouts/)
-*   [St John’s Brigade](https://tanglinsec.moe.edu.sg/homepage/character-development/st-john-ambulance-brigade/)
+*   [Boys’ Brigade]()
+*   [National Cadet Corps]()
+*   [National Police Cadet Corps]()
+*   [Scouts]()
+*   [St John’s Brigade]()
 
 **Performing Arts** 
 
-*   [Concert Band](https://tanglinsec.moe.edu.sg/homepage/concert-band/)
-*   [Contemporary Dance](https://tanglinsec.moe.edu.sg/homepage/contemporary-dance/)
-*   [Chinese Dance Ensemble](https://tanglinsec.moe.edu.sg/homepage/dance-ensemble/)
+*   [Concert Band]()
+*   [Contemporary Dance]()
+*   [Chinese Dance Ensemble]()
 *   [Guzheng Ensemble]()
 *   [Percussion Ensemble]()
 
