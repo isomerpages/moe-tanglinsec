@@ -4,11 +4,6 @@ permalink: /holistic-education/Character-Development/CCA/
 description: ""
 third_nav_title: Character Development
 ---
-
-
-
-
-
 ## Co-Curricular Activities
 
 
@@ -23,12 +18,12 @@ In Tanglin, every student takes part in one CCA taken from the following optio
 
 **Physical Sports**
 
-*   [Badminton](https://tanglinsec.moe.edu.sg/homepage/badminton/)
-*   [Basketball](https://tanglinsec.moe.edu.sg/homepage/basketball/)
-*   [Fencing](https://tanglinsec.moe.edu.sg/homepage/character-developmentbasketball/fencing/)
-*   [Football](https://tanglinsec.moe.edu.sg/homepage/football/)
-*   [Netball](https://tanglinsec.moe.edu.sg/homepage/netball/)
-*   [Volleyball](https://tanglinsec.moe.edu.sg/homepage/character-development/volleyball/) 
+*   [Badminton]
+*   [Basketball]
+*   [Fencing]
+*   [Football]
+*   [Netball]
+*   [Volleyball]
 
 **Uniformed Groups**
 
@@ -43,12 +38,12 @@ In Tanglin, every student takes part in one CCA taken from the following optio
 *   [Concert Band](https://tanglinsec.moe.edu.sg/homepage/concert-band/)
 *   [Contemporary Dance](https://tanglinsec.moe.edu.sg/homepage/contemporary-dance/)
 *   [Chinese Dance Ensemble](https://tanglinsec.moe.edu.sg/homepage/dance-ensemble/)
-*   [Guzheng Ensemble](https://tanglinsec.moe.edu.sg/homepage/guzheng/)
-*   [Percussion Ensemble](https://tanglinsec.moe.edu.sg/homepage/percussion-ensemble/)
+*   [Guzheng Ensemble]()
+*   [Percussion Ensemble]()
 
 **Clubs & Societies** 
 
-*   [Infocomm Club](https://tanglinsec.moe.edu.sg/homepage/infocomm-club/)
+*   [Infocomm Club]()
 
 **CCA LEAPS 2.0**
 
