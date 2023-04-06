@@ -18,32 +18,32 @@ In Tanglin, every student takes part in one CCA taken from the following optio
 
 **Physical Sports**
 
-*   [Badminton]()
-*   [Basketball]()
-*   [Fencing]()
-*   [Football]()
-*   [Netball]()
-*   [Volleyball]()
+*   [Badminton](www.tanglinsec.moe.edu.sg)
+*   [Basketball](www.tanglinsec.moe.edu.sg)
+*   [Fencing](www.tanglinsec.moe.edu.sg)
+*   [Football](www.tanglinsec.moe.edu.sg)
+*   [Netball](www.tanglinsec.moe.edu.sg)
+*   [Volleyball](www.tanglinsec.moe.edu.sg)
 
 **Uniformed Groups**
 
-*   [Boys’ Brigade]()
-*   [National Cadet Corps]()
-*   [National Police Cadet Corps]()
-*   [Scouts]()
-*   [St John’s Brigade]()
+*   [Boys’ Brigade](www.tanglinsec.moe.edu.sg)
+*   [National Cadet Corps](www.tanglinsec.moe.edu.sg)
+*   [National Police Cadet Corps](www.tanglinsec.moe.edu.sg)
+*   [Scouts](www.tanglinsec.moe.edu.sg)
+*   [St John’s Brigade](www.tanglinsec.moe.edu.sg)
 
 **Performing Arts** 
 
-*   [Concert Band]()
-*   [Contemporary Dance]()
-*   [Chinese Dance Ensemble]()
-*   [Guzheng Ensemble]()
-*   [Percussion Ensemble]()
+*   [Concert Band](www.tanglinsec.moe.edu.sg)
+*   [Contemporary Dance](www.tanglinsec.moe.edu.sg)
+*   [Chinese Dance Ensemble](www.tanglinsec.moe.edu.sg)
+*   [Guzheng Ensemble](www.tanglinsec.moe.edu.sg)
+*   [Percussion Ensemble](www.tanglinsec.moe.edu.sg)
 
 **Clubs & Societies** 
 
-*   [Infocomm Club]()
+*   [Infocomm Club](www.tanglinsec.moe.edu.sg)
 
 **CCA LEAPS 2.0**
 
