@@ -7,32 +7,32 @@ third_nav_title: Character Development
 ## Sexuality Education
 <br>
 
-<b>MOE SEXUALITY EDUCATION IN SCHOOLS<b>
+<b>MOE&nbsp;SEXUALITY&nbsp;EDUCATION IN&nbsp;SCHOOLS<b>
 
 1.  Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
 
 2.  The goals of Sexuality Education are to:
 
-1.  To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;
-2.  To help students know themselves and build healthy and rewarding relationships through the acquisition of social and emotional skills of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
-3.  To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
+i. To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate&nbsp;knowledge&nbsp;on human sexuality and the consequences of sexual activity;
+ii. To help students know themselves and build healthy and rewarding relationships through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness, management of their thoughts, feelings and behaviours, development of empathy for others, possession of effective communication, problem-solving and decision-making skills; and
+iii. To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of&nbsp;positive mainstream values and attitudes&nbsp;about sexuality.
 
 3.  The key messages of Sexuality Education are:
 
-1.  Love and respect yourself as you love and respect others;
-2.  Build positive relationships based on love and respect (which are the foundation for strong families);
-3.  Make responsible decisions for yourself, your family and society; and
-4.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
+i.  Love and respect yourself as you love and respect others;
+ii.  Build positive relationships based on love and respect (which are the foundation for strong families);
+iii.  Make responsible decisions for yourself, your family and society; and
+iv.  Abstinence before marriage is the best protection against STIs/HIV and unintended pregnancies. Casual sex can harm and hurt you and your loved ones.
 
-You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education.
+You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education)&nbsp;for more information on MOE Sexuality Education.
 
-<b>OVERVIEW OF TANGLIN SECONDARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2022<b>
+<b>OVERVIEW OF&nbsp;TANGLIN&nbsp;SECONDARY&nbsp;SCHOOL’S&nbsp;SEXUALITY&nbsp;EDUCATION&nbsp;PROGRAMME FOR 2022<b>
 
-4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.   
- 5.  The subjects that incorporate topics on sexuality include
+4.  Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click&nbsp;[here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach)&nbsp;for more information on the scope of Sexuality Education in the school curriculum.&nbsp; &nbsp;
+ 5.&nbsp; The subjects that incorporate topics on sexuality include
 
-1.    Science
-2.    Character and Citizenship Education (CCE)
+1.  &nbsp; Science
+2.  &nbsp; Character and Citizenship Education (CCE)
 
 <b>Sexuality Education Lessons<b>
 
@@ -40,7 +40,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 
 7.  Through the Sexuality Education lessons, secondary students will have the opportunity to develop a positive self-esteem, develop their character, and expand their understanding and repertoire of skills to deal with various issues related to sexuality, which are of prime concern at this age.
 
-<b>At Tanglin Secondary School, the following lessons from the Growing Years Programme will be taught in 2022:<b>
+<b>At Tanglin Secondary School, the following lessons from the Growing Years Programme will be taught in&nbsp;2022:<b>
 <br>
 	
 <center>
@@ -71,26 +71,26 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) fo
 ![](/images/Sec-5-2022Update.jpg)
 	
 <br>
-	<b> eTeens Programme <b> :
+	<b> eTeens&nbsp;Programme <b> :
 
-8.  _eTeens_ is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective. _eTeens_ is conducted in two segments – a mass talk segment and a classroom-based programme.  
+8.  _eTeens_&nbsp;is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, for Secondary 3 students to provide them with accurate information on STIs, HIV and protection from a health perspective.&nbsp;_eTeens_&nbsp;is conducted in two segments – a mass talk segment and a classroom-based programme.&nbsp;&nbsp;
 	
-9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the _eTeens_ programme is that students are empowered to make wise, informed and sensible decisions.
+9.  Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the&nbsp;_eTeens_&nbsp;programme is that students are empowered to make wise, informed and sensible decisions.
 
-**At Tanglin Secondary School, the _eTeens_ programme will be implemented as follows in 2022:**
+**At Tanglin Secondary School, the&nbsp;_eTeens_&nbsp;programme will be implemented as follows in 2022:**
 	
 	
 ![](/images/eTeens-2022Update.jpg)
 	<br>
 		
-**INFORMATION FOR PARENTS**
+**INFORMATION FOR&nbsp;PARENTS**
 
-10.  Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes by MOE-approved external providers.
+10.  Parents may opt their children out of the Sexuality Education lessons,&nbsp;_eTeens_&nbsp;and/or supplementary sexuality education programmes by MOE-approved external providers.
 
-11.  Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. The opt-out form can be found in the Parent Gateway. The form is also downloadable [here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/SEd_Annex-A-2022.pdf) . The completed form is to be submitted by 25/02/2022 (Friday).  
+11.  Parents who wish to opt their children out of the&nbsp;**Sexuality Education lessons**&nbsp;need to complete an opt-out form. The opt-out form can be found in the Parent Gateway. The form is also downloadable&nbsp;[here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/SEd_Annex-A-2022.pdf)&nbsp;. The completed form is to be submitted by 25/02/2022 (Friday).&nbsp;&nbsp;
 
-12.  Parents who wish to opt their children out of the **_eTeens_ programme (_for Secondary 3 students only_)** need to complete an opt-out form via the Parent Gateway. This form is also downloadable [here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/eTeens_Annex-B-2022.pdf). The completed form is to be submitted by 25/02/2022 (Friday).
+12.  Parents who wish to opt their children out of the&nbsp;**_eTeens_&nbsp;programme (_for Secondary 3 students only_)**&nbsp;need to complete an opt-out form via the Parent Gateway. This form is also downloadable&nbsp;[here](https://tanglinsec.moe.edu.sg/wp-content/uploads/2022/01/eTeens_Annex-B-2022.pdf). The completed form is to be submitted by 25/02/2022 (Friday).
 
-13.  Parents can contact the school at [chai\_woon\_yin\_charine@schools.gov.sg](mailto:chai_woon_yin_charine@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
+13.  Parents can contact the school at&nbsp;[chai\_woon\_yin\_charine@schools.gov.sg](mailto:chai_woon_yin_charine@schools.gov.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
-14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+14.  Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.</b></b></b></b></b></b></b></b></b></b>
