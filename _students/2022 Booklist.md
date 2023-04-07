@@ -13,8 +13,8 @@ description: ""
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <b>Secondary 2 Book Lists &amp; Stationery List</b>&nbsp;
 
 *   [Secondary 2E Book List](/files/2022%20Booklist/tss-booklist-2022-2e.pdf)
-*   [Secondary 2NA Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-2NA.pdf)&nbsp;
-*   [Secondary 2NT Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-2NT.pdf)&nbsp;
+*   [Secondary 2NA Book List](/files/2022%20Booklist/tss-booklist-2022-2na.pdf))&nbsp;
+*   [Secondary 2NT Book List](/files/2022%20Booklist/tss-booklist-2022-2nt.pdf)&nbsp;
     
     <b>Secondary 3 Book Lists &amp; Stationery List</b>&nbsp;
     
