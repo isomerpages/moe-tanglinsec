@@ -24,7 +24,7 @@ description: ""
     
     <b>Secondary 4/5 Book Lists &amp;&nbsp;Stationery List</b>
     
-*   [Secondary 4E Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-4E.pdf)&nbsp;
+*   [Secondary 4E Book List](/files/2022%20Booklist/tss-booklist-2022-4e.pdf)&nbsp;
 *   [Secondary 4NA Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-4NA.pdf)&nbsp;
 *   [Secondary 4NT Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-4NT.pdf)&nbsp;
 *   [Secondary 5NA Book List](https://tanglinsec.moe.edu.sg/wp-content/uploads/2021/12/Booklist-2022-5NA.pdf)
