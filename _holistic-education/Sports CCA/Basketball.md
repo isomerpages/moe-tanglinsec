@@ -119,17 +119,17 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-au0h{background-color:#ffffff;border-color:#000000;color:#222;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 707px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 210px">
-<col style="width: 190px">
-<col style="width: 171px">
-<col style="width: 136px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="400" allowfullscreen="true"></iframe><br></th>
-    <th class="tg-xg8y"><iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe></th>
+    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="200" height="250" allowfullscreen="true"></iframe><br></th>
+    <th class="tg-xg8y"><iframe allowfullscreen="true" height="200" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe></th>
     <th class="tg-iks7">Q2</th>
     <th class="tg-iks7">Q3</th>
   </tr>
