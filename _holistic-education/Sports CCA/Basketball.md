@@ -10,9 +10,9 @@ third_nav_title: Sports CCA
 ## Overview
 
 
-Tanglin Basketball aims to impart values and skills to our players. We focus on teamwork, discipline and resilience during our training. Our players have the opportunity to partner with external organisations in terms of training and exchange of skills. Through rigorous post-game reflections, our players are more aware of their strengths and weaknesses.  
+Tanglin Basketball aims to impart values and skills to our players. We focus on teamwork, discipline and resilience during our training. Our players have the opportunity to partner with external organisations in terms of training and exchange of skills. Through rigorous post-game reflections, our players are more aware of their strengths and weaknesses. &nbsp;
 
-## Training Time & Venue 
+## Training&nbsp;Time &amp;&nbsp;Venue&nbsp;
 
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Monday (3.00pm – 5.30pm), Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Monday (2.00pm – 4.30pm), Wednesday (3.00pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">School Basketball Court</td></tr></tbody></table>
@@ -64,12 +64,12 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 780px">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 37.2px">
-<col style="width: 113.2px">
-<col style="width: 401.4px">
-<col style="width: 228.2px">
+<col style="width: 45px">
+<col style="width: 115px">
+<col style="width: 400px">
+<col style="width: 230px">
 </colgroup>
 <thead>
   <tr>
