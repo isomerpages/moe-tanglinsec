@@ -194,7 +194,7 @@ body {
     <img src="/images/Basketball/20160914_165625%20(1).jpg" alt="Mountains" style="width:30%">
   </div>
   <div class="column">
-    <img alt="/images/Basketball/20160908_160650%20(1).jpg" style="width:100%">
+    <img alt="/images/Basketball/20160908_160650%20(1).jpg" style="width:30%">
   </div>
 </div>
 
