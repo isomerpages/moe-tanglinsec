@@ -185,7 +185,7 @@ body {
 <!-- The four columns -->
 <div class="row">
   <div class="column">
-    <img src="img_nature.jpg" alt="Nature" style="width:100%">
+    <img src="/images/Basketball/tss_basketball%201.jpg" alt="Nature" style="width:100%">
   </div>
   <div class="column">
     <img src="img_snow.jpg" alt="Snow" style="width:100%">
