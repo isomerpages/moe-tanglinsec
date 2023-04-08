@@ -188,7 +188,7 @@ body {
     <img src="/images/Basketball/tss_basketball%201.jpg" alt="Nature" style="width:100%">
   </div>
   <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="/images/Basketball/20160914_171929%20(1).jpg" alt="Snow" style="width:100%">
   </div>
   <div class="column">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
