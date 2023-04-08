@@ -12,7 +12,7 @@ third_nav_title: Uniform Groups CCA
 
 NPCC is the only uniformed youth organisation that has close affiliation with the Singapore Police Force. Our cadets are exposed to a variety of unique core and enrichment activities, where values such as discipline, loyalty, integrity, resourcefulness, tenacity and civic-consciousness are inculcated to develop them into caring and responsible Citizens in line with the 21st Century Competencies.
 
-## Training Time & Venue
+## Training Time &amp; Venue
 
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Friday (10.30m – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Wednesday (3.00pm – 5.30pm)<br style="box-sizing: inherit;">*HQ parades, course, visits, camps, extra trainings may fall outside normal weekly training.</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">School Compound</td></tr></tbody></table>
@@ -21,16 +21,16 @@ NPCC is the only uniformed youth organisation that has close affiliation with th
 
 
 *   Mr Chua Chau Lee (OIC)
-*   Ms Wang Lee Keow  (2IC)
+*   Ms Wang Lee Keow&nbsp; (2IC)
     
-*   Ms Kalai Vani Sivam 
+*   Ms Kalai Vani Sivam&nbsp;
     
 
 ## Student Leaders
 
 
 *   Head Cadet Leader – Tha Zin Oo
-*   Deputy Head Cadet Leader – Nur Luke Luszman Bin Abdul Ridha 
+*   Deputy Head Cadet Leader – Nur Luke Luszman Bin Abdul Ridha&nbsp;
 *   Deputy Head Cadet Leader – Wardah Syaurah Binte Mohd Ismail
 
 ## Key Highlights
@@ -45,7 +45,7 @@ NPCC is the only uniformed youth organisation that has close affiliation with th
 *   Crime Scene Investigation
 *   Adventure Training Camp
 *   Survival Training Camp
-*   OEV to Hong Kong & Brunei
+*   OEV to Hong Kong &amp; Brunei
 *   Area Games Day
 *   First Aid
 *   One Star Kayaking
