@@ -11,9 +11,9 @@ third_nav_title: Uniform Groups CCA
 
 
 
-Our scouts participate in a wide variety of activities such as hikes, campfires, sports elective programmes and adventure trips, both local and overseas. We also learn many valuable life skills through activities such as Job Week, pioneering, orienteering, outdoor cooking and first aid training.  In scouting, we value character building and we aim to mould our scouts to become active and concerned citizens. Our patrol system gives our leaders the opportunity to lead their members in contributing to society through performing community service. 
+Our scouts participate in a wide variety of activities such as hikes, campfires, sports elective programmes and adventure trips, both local and overseas. We also learn many valuable life skills through activities such as Job Week, pioneering, orienteering, outdoor cooking and first aid training. &nbsp;In scouting, we value character building and we aim to mould our scouts to become active and concerned citizens. Our patrol system gives our leaders the opportunity to lead their members in contributing to society through performing community service.&nbsp;
 
-## Training Time & Venue
+## Training Time &amp; Venue
 
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Wednesday (3.30pm – 4.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">School Compound</td></tr></tbody></table>
