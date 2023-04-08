@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -106,5 +106,84 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
   </tr>
 </tbody>
 </table>
+
+
+
+
+
+  
+    <title>Image Gallery</title>
+    <style type="text/css">
+      .main{
+      margin: 20px;
+      padding: 50px;
+      }
+      div.gallery {
+      margin: 10px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 180px;
+      box-shadow: 4px 3px;
+      }
+      div.gallery:hover {
+      border: 1px solid #777;
+      }
+      div.gallery img {
+      width: 100%;
+      height: auto;
+      }
+      div.desc {
+      padding: 15px;
+      text-align: center;
+      }
+    </style>
+  
+  
+    <div class="main">
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_1.jpg">
+          <img src="images/image\_1.jpg" alt="Cinque Terre" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_2.jpg">
+          <img src="images/image\_2.jpg" alt="Forest" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_3.jpg">
+          <img src="images/image\_3.jpg" alt="Northern Lights" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_4.jpg">
+          <img src="images/image\_4.jpg" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_4.jpg">
+          <img src="images/image\_5.jpg" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+
+      <div class="gallery">
+        <a target="\_blank" href="images/image\_4.jpg">
+          <img src="images/image\_6.jpg" alt="Mountains" width="600" height="400">
+        </a>
+        <div class="desc">Add a description of the image here</div>
+      </div>
+      
+    </div>
+  
+
 
 ![](/images/Screenshot%20(26).png)
