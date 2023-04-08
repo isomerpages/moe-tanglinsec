@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 700px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -108,7 +108,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 </table>
 
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 
  
