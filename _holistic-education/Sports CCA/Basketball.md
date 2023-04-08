@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 700px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -112,6 +112,9 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 
 
   
+
+
+  
     <title>Image Gallery</title>
     <style type="text/css">
       .main{
@@ -141,7 +144,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
   
     <div class="main">
       <div class="gallery">
-        <a target="\_blank" href="images/image\_1.jpg">
+        <a target="\_blank" href="![](/images/Basketball/tss_basketball%201.jpg)">
           <img src="images/image\_1.jpg" alt="Cinque Terre" width="600" height="400">
         </a>
         <div class="desc">Add a description of the image here</div>
@@ -184,6 +187,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
       
     </div>
   
+
 
 
 ![](/images/Screenshot%20(26).png)
