@@ -144,7 +144,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
   
     <div class="main">
       <div class="gallery">
-        <a target="\_blank" href="![](/images/Basketball/tss_basketball%201.jpg)">
+        <a target="\_blank" href="/images/Basketball/tss_basketball%201.jpg">
           <img src="images/image\_1.jpg" alt="Cinque Terre" width="600" height="400">
         </a>
         <div class="desc">Add a description of the image here</div>
