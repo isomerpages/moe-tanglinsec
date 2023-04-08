@@ -109,7 +109,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 
 |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 |---|---|  
-| <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="400" allowfullscreen="true"></iframe> |  |&nbsp;&nbsp; |&nbsp;&nbsp; |  
+| <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="400" allowfullscreen="true"></iframe> | |&nbsp;&nbsp; |&nbsp;&nbsp; |  
 
 
 
