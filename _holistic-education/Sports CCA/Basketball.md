@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -111,81 +111,104 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 
 
 
-  
+ 
 
 
-  
-    <title>Image Gallery</title>
-    <style type="text/css">
-      .main{
-      margin: 20px;
-      padding: 50px;
-      }
-      div.gallery {
-      margin: 10px;
-      border: 1px solid #ccc;
-      float: left;
-      width: 180px;
-      box-shadow: 4px 3px;
-      }
-      div.gallery:hover {
-      border: 1px solid #777;
-      }
-      div.gallery img {
-      width: 100%;
-      height: auto;
-      }
-      div.desc {
-      padding: 15px;
-      text-align: center;
-      }
-    </style>
-  
-  
-    <div class="main">
-      <div class="gallery">
-        <a target="\_blank" href="/images/Basketball/tss_basketball%201.jpg">
-          <img src="images/image\_1.jpg" alt="Cinque Terre" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
 
-      <div class="gallery">
-        <a target="\_blank" href="images/image\_2.jpg">
-          <img src="images/image\_2.jpg" alt="Forest" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
+<style>
+* {
+  box-sizing: border-box;
+}
 
-      <div class="gallery">
-        <a target="\_blank" href="images/image\_3.jpg">
-          <img src="images/image\_3.jpg" alt="Northern Lights" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
+body {
+  margin: 0;
+  font-family: Arial;
+}
 
-      <div class="gallery">
-        <a target="\_blank" href="images/image\_4.jpg">
-          <img src="images/image\_4.jpg" alt="Mountains" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
+/* The grid: Four equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
 
-      <div class="gallery">
-        <a target="\_blank" href="images/image\_4.jpg">
-          <img src="images/image\_5.jpg" alt="Mountains" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
+/* Style the images inside the grid */
+.column img {
+  opacity: 0.8; 
+  cursor: pointer; 
+}
 
-      <div class="gallery">
-        <a target="\_blank" href="images/image\_4.jpg">
-          <img src="images/image\_6.jpg" alt="Mountains" width="600" height="400">
-        </a>
-        <div class="desc">Add a description of the image here</div>
-      </div>
-      
-    </div>
+.column img:hover {
+  opacity: 1;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* The expanding image container */
+.container {
+  position: relative;
+  display: none;
+}
+
+/* Expanding image text */
+#imgtext {
+  position: absolute;
+  bottom: 15px;
+  left: 15px;
+  color: white;
+  font-size: 20px;
+}
+
+/* Closable button inside the expanded image */
+.closebtn {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: white;
+  font-size: 35px;
+  cursor: pointer;
+}
+</style>
+
+
+
+<div style="text-align:center">
+  <h2>Tabbed Image Gallery</h2>
+  <p>Click on the images below:</p>
+</div>
+
+<!-- The four columns -->
+<div class="row">
+  <div class="column">
+    <img src="img_nature.jpg" alt="Nature" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_lights.jpg" alt="Lights" style="width:100%">
+  </div>
+</div>
+
+<div class="container">
+  <span class="closebtn">×</span>
+  <img id="expandedImg" style="width:100%">
+  <div id="imgtext"></div>
+</div>
+
+
+
+
+
+
   
 
 
