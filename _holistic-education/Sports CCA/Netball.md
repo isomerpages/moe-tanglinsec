@@ -7,12 +7,12 @@ third_nav_title: Sports CCA
 # Netball
 
 
-## Overview 
+## Overview&nbsp;
 
 
-Netball is a CCA that inculcates the importance of sportsmanship, teamwork and resilience in our players. During weekly trainings, they will acquire the basic knowledge, fitness, skills and strategies required to excel in Netball. Annual competitions and sports camps further provide opportunities for players to develop their leadership and life skills. In addition, they will also forge long lasting friendships both within the team and with the alumni.   
+Netball is a CCA that inculcates the importance of sportsmanship, teamwork and resilience in our players. During weekly trainings, they will acquire the basic knowledge, fitness, skills and strategies required to excel in Netball. Annual competitions and sports camps further provide opportunities for players to develop their leadership and life skills. In addition, they will also forge long lasting friendships both within the team and with the alumni. &nbsp;&nbsp;
 
-## Training Time & Venue
+## Training Time &amp; Venue
 
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Monday (3.00pm – 5.30pm),<span>&nbsp;</span><span style="box-sizing: inherit; font-family: inherit; font-size: inherit;">Friday (10.30am – 1.00pm)</span></p><p style="box-sizing: inherit; font-size: 1em;">Even week: Monday (2.00pm – 4.30pm), Wednesday (3.00pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px;">Netball Court @ Parade Square / School Hall&nbsp;</td></tr></tbody></table>
@@ -32,8 +32,8 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 ## Student Leaders
 
 
-*   Captain – Magsino Rona Lynda Martinez 
-*   Vice Captain – Yap Li Hui 
+*   Captain – Magsino Rona Lynda Martinez&nbsp;
+*   Vice Captain – Yap Li Hui&nbsp;
 
 ## Key Highlights
 
@@ -64,7 +64,7 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 789px">
+<table style="undefined;table-layout: fixed; width: 789px" class="tg">
 <colgroup>
 <col style="width: 44.2px">
 <col style="width: 111.2px">
@@ -95,37 +95,6 @@ Netball is a CCA that inculcates the importance of sportsmanship, teamwork and r
 </tbody>
 </table>
 
-<p>  
-<img style="width:25%" src="/images/20161023_175304.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/20161109_152205.jpg
-" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/20170120_123106.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/20170318_115005_001.jpg" align=left>  
-</p><br clear="left">
+<br>
 
-<p>  
-<img style="width:25%" src="/images/IMG-20161127-WA0006.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/8netball.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/IMG_9156.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/IMG_9171.jpg" align=left>  
-</p><br clear="left">
-<p>  
-<img style="width:25%" src="/images/IMG_9151.jpg" align=left>  
-</p><p>  
-
-
-
-
-
-
-
-
-
-
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRsaz4WsJ5Q4aV9VPR9m0Ib7rO4ynHdFKuVbo3Vot9jbELWYip8VuFx_4iXiLlfZDXJ7Bo1g0nPxXM8/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
