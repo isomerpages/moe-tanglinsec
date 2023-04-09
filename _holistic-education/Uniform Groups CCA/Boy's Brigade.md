@@ -44,7 +44,7 @@ The aim of the Boys’ Brigade is to nurture its youth based on strong values to
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 678px">
+<table style="undefined;table-layout: fixed; width: 678px" class="tg">
 <colgroup>
 <col style="width: 46.2px">
 <col style="width: 69.2px">
@@ -136,4 +136,4 @@ The aim of the Boys’ Brigade is to nurture its youth based on strong values to
 </table>
 
 
-![](/images/Screenshot%20(28).png)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmmKCgzavQ6mtQWSwlqg9FtcWrXTGA1sA7-Zqloc-UOzxZDbQMBRk0O7-8ebFyE4xHBKyx9FXvbgDD/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
