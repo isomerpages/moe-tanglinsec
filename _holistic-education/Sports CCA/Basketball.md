@@ -132,7 +132,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vb7c"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjeSH5xJuCr76MwkOmN5uOZmKgOTgZ4XCeLz8Pv4HFsxKFY7hJAr7EQIpLia4MTowNmBv6cknn3lXZ/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="650" height="300" allowfullscreen="true"></iframe></td>
+    <td class="tg-vb7c"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjeSH5xJuCr76MwkOmN5uOZmKgOTgZ4XCeLz8Pv4HFsxKFY7hJAr7EQIpLia4MTowNmBv6cknn3lXZ/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="650" height="350" allowfullscreen="true"></iframe></td>
     <td class="tg-au0h">Q4</td>
   </tr>
 </tbody>
