@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -107,6 +107,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 </tbody>
 </table>
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -116,38 +117,29 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-vb7c{background-color:#ffffff;border-color:#000000;color:#222;font-weight:bold;text-align:left;text-decoration:underline;
   vertical-align:top}
 .tg .tg-xg8y{background-color:#ffffff;border-color:#000000;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-iks7{background-color:#ffffff;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-au0h{background-color:#ffffff;border-color:#000000;color:#222;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 800px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
-<col style="width: 200px">
+<col style="width: 700px">
+<col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="200" height="250" allowfullscreen="true"></iframe><br></th>
-    <th class="tg-xg8y"><iframe allowfullscreen="true" height="200" width="250" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe></th>
-    <th class="tg-iks7">Q2</th>
-    <th class="tg-iks7">Q3</th>
+    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe><br></th>
+    <th class="tg-xg8y">Q1</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vb7c">Q</td>
-    <td class="tg-au0h">Q1</td>
-    <td class="tg-iks7">Q2</td>
-    <td class="tg-iks7">Q3</td>
+    <td class="tg-vb7c">Q3</td>
+    <td class="tg-au0h">Q4</td>
   </tr>
 </tbody>
 </table>
+    
 
-|  |  |  
-|---|---|  
-|  | 
- |  
+
 
 
 
