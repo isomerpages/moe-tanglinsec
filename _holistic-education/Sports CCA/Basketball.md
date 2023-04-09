@@ -64,7 +64,7 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-0f6e{background-color:#FFF;border-color:inherit;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 45px">
 <col style="width: 115px">
@@ -119,20 +119,20 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 .tg .tg-xg8y{background-color:#ffffff;border-color:#000000;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-au0h{background-color:#ffffff;border-color:#000000;color:#222;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 400px" class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 400px">
 <colgroup>
 <col style="width: 700px">
 <col style="width: 350px">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xg8y"><iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe><br></th>
-    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="300" height="650" allowfullscreen="true"></iframe></th>
+    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="650" height="350" allowfullscreen="true"></iframe><br></th>
+    <th class="tg-xg8y"><iframe allowfullscreen="true" height="650" width="300" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vb7c">Q3</td>
+    <td class="tg-vb7c"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRjeSH5xJuCr76MwkOmN5uOZmKgOTgZ4XCeLz8Pv4HFsxKFY7hJAr7EQIpLia4MTowNmBv6cknn3lXZ/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="650" height="300" allowfullscreen="true"></iframe></td>
     <td class="tg-au0h">Q4</td>
   </tr>
 </tbody>
