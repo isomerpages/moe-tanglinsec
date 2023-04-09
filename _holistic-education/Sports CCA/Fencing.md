@@ -149,4 +149,6 @@ Training Time &amp; Venue&nbsp;
 </tbody>
 </table>
 
+<br>
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6sXFCgVw3d9iNaZh7uxXGUyxKhyv5aB66mhgGyaBL2SMsBXvmfWizrVj_QI5GNeghdFYwiPl5rIfJ/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
