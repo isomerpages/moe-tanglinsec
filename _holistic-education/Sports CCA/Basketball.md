@@ -126,8 +126,8 @@ Tanglin Basketball aims to impart values and skills to our players. We focus on 
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-xg8y"><iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe><br></th>
-    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe></th>
+    <th class="tg-xg8y"><iframe allowfullscreen="true" height="350" width="650" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRug4_BL01dbRDmpqO_qAyyq-aEGUBcKgZmeCeXuFnS5oKV9YUdhvPsP45qyz_224un2Tv1exYwITMA/embed?start=true&amp;loop=true&amp;delayms=15000"></iframe><br></th>
+    <th class="tg-xg8y"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcpDfLYUnSQEqmSnLUszlr9b9FXULk6DAZFUfhHUGj5H6rpzzlq9UbC_P7kM1XGW8kuMnWzauJvyoe/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="300" height="650" allowfullscreen="true"></iframe></th>
   </tr>
 </thead>
 <tbody>
