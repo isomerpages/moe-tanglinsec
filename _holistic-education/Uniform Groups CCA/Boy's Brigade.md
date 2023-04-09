@@ -10,9 +10,9 @@ third_nav_title: Uniform Groups CCA
 ## Overview
 
 
-The aim of the Boys’ Brigade is to nurture its youth based on strong values to lead and serve others. Our goal is to develop our Boys into desirable individuals of character. We train our Boys to become loyal and responsible citizens, committed to serve the community. The activities in The Boys’ Brigade are fun, challenging, purposeful and meaningful with strong emphasis on leadership development, team building, life skills, adventure and community service.
+The aim of the Boys’ Brigade is to nurture its youth based on strong values to lead and serve others.&nbsp;Our goal is to develop our Boys into desirable individuals of character. We train our Boys to become loyal and responsible citizens, committed to serve the community. The activities in The Boys’ Brigade are fun, challenging, purposeful and meaningful with strong emphasis on leadership development, team building, life skills, adventure and community service.
 
-## Training Time & Venue
+## Training Time &amp; Venue
 
 
 <table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 712.333px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 122px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 573.333px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Monday (3.00pm – 5.00pm), Friday (10.30am – 12.30pm)&nbsp;</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Monday (2.30pm – 5.00pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 122px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 573.333px;">School Compound</td></tr></tbody></table>
@@ -20,9 +20,9 @@ The aim of the Boys’ Brigade is to nurture its youth based on strong values to
 ## Teachers-in-Charge
 
 
-*   Ms Teo Mei Chia (OIC)
+*   Ms Teo Mei Chia&nbsp;(OIC)
     
-*   Ms Chai & Mr Tie (Covering OICs for Sem 1)
+*   Ms Chai &amp; Mr Tie (Covering OICs for Sem 1)
     
 
 ## Student Leaders
