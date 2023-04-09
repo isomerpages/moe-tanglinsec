@@ -59,7 +59,7 @@ Football is a sport enjoyed by millions worldwide. &nbsp;Our boys learn skills a
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-1ppo{background-color:#FFF;color:#222;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 798px" class="tg">
+<table style="undefined;table-layout: fixed; width: 700px" class="tg">
 <colgroup>
 <col style="width: 43.2px">
 <col style="width: 97.2px">
