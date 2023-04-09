@@ -7,15 +7,15 @@ third_nav_title: Sports CCA
 # Fencing
 
 
-## Overview 
+## Overview&nbsp;
 
 
-Tanglin was the first Technical school to introduce fencing as an extra-curricular activity (ECA) in 1964.  It remains as one of the main sports Co-Curricular Activities (CCAs) offered to our students. We aim to nurture fencers who can demonstrate greater competence in the areas of self-management, self-awareness, responsible decision-making, social awareness and relationship management.  These Social and Emotional competencies will serve as a driving force to enable our Tanglin fencers to succeed in the 21st Century.
+Tanglin was the first Technical school to introduce fencing as an extra-curricular activity (ECA) in 1964. &nbsp;It remains as one of the main sports Co-Curricular Activities (CCAs) offered to our students. We aim to nurture fencers who can demonstrate greater competence in the areas of self-management, self-awareness, responsible decision-making, social awareness and relationship management. &nbsp;These Social and Emotional competencies will serve as a driving force to enable our Tanglin fencers to succeed in the 21st Century.
 
-Training Time & Venue 
+Training Time &amp; Venue&nbsp;
 ----------------------
 
-<table width="694" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 120px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154.667px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 524px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Wednesday (3.30pm – 5.30pm), Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Selected Monday (3.00pm – 5.00pm), Wednesday (3.30pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154.667px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 524px;">School Hall / 2nd level Open Space</td></tr></tbody></table>
+<table style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 120px;" width="694"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154.667px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Time</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 524px;"><p style="box-sizing: inherit; font-size: 1em;">Odd week: Wednesday (3.30pm – 5.30pm), Friday (10.30am – 12.30pm)</p><p style="box-sizing: inherit; font-size: 1em;">Even week: Selected Monday (3.00pm – 5.00pm), Wednesday (3.30pm – 5.30pm)</p></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 154.667px;"><strong style="box-sizing: inherit; font-weight: bold;">Training Venue</strong></td><td style="box-sizing: inherit; padding: 5px 10px; width: 524px;">School Hall / 2nd level Open Space</td></tr></tbody></table>
 
 ## Teachers-in-Charge
 
@@ -43,12 +43,12 @@ Training Time & Venue 
 
 *   Participation in National School Games Fencing Championship
 *   Participation in Singapore Minime Fencing Championship
-*   Participation in Singapore Cadet & Junior Fencing  Championships
+*   Participation in Singapore Cadet &amp; Junior Fencing &nbsp;Championships
 *   Participation in Novices Championships
 *   Participation in Singapore Youth Olympic Festival
 *   Training Camp Exchange with other schools (March and June Holidays)
 *   Participation in NUS Fencing Challenge
-*   VIA for UIPM Laser Run City Tour 2017 with the Singapore Modern Pentathlon Association (SIMPA), SportSG &  Active SG
+*   VIA for UIPM Laser Run City Tour 2017 with the Singapore Modern Pentathlon Association (SIMPA), SportSG &amp; &nbsp;Active SG
 *   Participation in Singapore GNC Cadet Open Championships (Epee and Sabre)
 *   Participation in Raffles Invite
 *   3D2N Combined Sports Camp during December Holidays
@@ -72,7 +72,7 @@ Training Time & Venue 
 .tg .tg-pr30{background-color:#E6E6E6;color:#222;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-a3j2{background-color:#FFF;color:#222;text-align:center;vertical-align:middle}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 535px">
+<table style="undefined;table-layout: fixed; width: 700 px" class="tg">
 <colgroup>
 <col style="width: 42.2px">
 <col style="width: 150.2px">
@@ -149,17 +149,4 @@ Training Time & Venue 
 </tbody>
 </table>
 
-<br>
-<p>  
-<img style="width:25%" src="/images/1SchTraining1_2014.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/3Studio1.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/4CampExchange.jpg" align=left>  
-</p><p>  
-<img style="width:25%" src="/images/6SYOF2.jpg" align=left>  
-</p><br clear="left">
-
-<p>  
-<img style="width:25%" src="/images/7SYOF_Epee.jpg" align=left>  
-</p><p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6sXFCgVw3d9iNaZh7uxXGUyxKhyv5aB66mhgGyaBL2SMsBXvmfWizrVj_QI5GNeghdFYwiPl5rIfJ/embed?start=true&amp;loop=true&amp;delayms=15000" frameborder="0" width="700" height="569" allowfullscreen="true"></iframe>
