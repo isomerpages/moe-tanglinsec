@@ -1,0 +1,7 @@
+collections:
+  useful-links:
+    output: true
+    order:
+      - STAFF.md
+      - PARENTS.md
+      - STUDENTS.md

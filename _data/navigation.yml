@@ -1,0 +1,16 @@
+logo: /images/1-300x284.jpg
+links:
+  - title: About Us
+    collection: about-us
+  - title: "SIGNATURE PROGRAMMES "
+    collection: signature-programmes
+  - title: HOLISTIC EDUCATION
+    collection: holistic-education
+  - title: STUDENTS
+    collection: students
+  - title: Parents
+    collection: parents
+  - title: USEFUL LINKS
+    collection: useful-links
+  - title: Contact Us
+    url: /contact-us/

@@ -1,0 +1,16 @@
+collections:
+  students:
+    output: true
+    order:
+      - Year End Holiday Assignment 2022.md
+      - Term 4 Timetable.md
+      - End Of Year Examinations 2022.md
+      - 2022 Booklist.md
+      - The Curious Tanglinian.md
+      - School Rules & Regulation.md
+      - School Uniform.md
+      - Student ICT Information/.keep
+      - Student ICT Information/eLearning Information.md
+      - Student ICT Information/Student ICON Information.md
+      - Student ICT Information/PDLP Information.md
+      - School Library Catalogue.md

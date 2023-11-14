@@ -1,0 +1,46 @@
+collections:
+  holistic-education:
+    output: true
+    order:
+      - Academic Departments/.keep
+      - Academic Departments/English.md
+      - Academic Departments/Mother Tongue.md
+      - Academic Departments/Mathematics.md
+      - Academic Departments/Science.md
+      - Academic Departments/Humanities.md
+      - Academic Departments/Craft & Technology.md
+      - Academic Departments/Physical Education.md
+      - Academic Departments/Student Development & Well Being.md
+      - Academic Departments/Discipline.md
+      - Academic Departments/Information & Communications Technologies.md
+      - Character Development/Co Curricular Activities.md
+      - Character Development/.keep
+      - Character Development/Sexuality Education.md
+      - Character Development/BASIC Programme.md
+      - Character Development/Education and Career Guidance.md
+      - Character Development/ECG Programmes.md
+      - Character Development/ECG Resources.md
+      - Character Development/National Education.md
+      - Character Development/Cyberwellness.md
+      - Character Development/Aesthetics Programme.md
+      - Sports CCA/.keep
+      - Sports CCA/Badminton.md
+      - Sports CCA/Basketball.md
+      - Sports CCA/Fencing.md
+      - Sports CCA/Football.md
+      - Sports CCA/Netball.md
+      - Sports CCA/Volleyball.md
+      - Uniform Groups CCA/.keep
+      - Uniform Groups CCA/Boy's Brigade.md
+      - Uniform Groups CCA/National Cadet Corps.md
+      - Uniform Groups CCA/National Police Cadet Corps.md
+      - Uniform Groups CCA/Scouts.md
+      - Uniform Groups CCA/St John Brigade.md
+      - Performing Arts CCA/.keep
+      - Performing Arts CCA/Concert Band.md
+      - Performing Arts CCA/Contemporary Dance.md
+      - Performing Arts CCA/Chinese Dance Ensemble.md
+      - Performing Arts CCA/Guzheng Ensemble.md
+      - Performing Arts CCA/Percussion Ensemble.md
+      - Clubs & Societies CCA/.keep
+      - Clubs & Societies CCA/Infocomm Club.md
